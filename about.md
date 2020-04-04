@@ -7,7 +7,7 @@ subtitle: About this site
 My name is Jason Keane. You can contact me at jason@keane.id
 
 ## PGP Key
----
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 Version: OpenPGP.js v4.10.1  
 Comment: https://openpgpjs.org  
@@ -23,5 +23,4 @@ n0Su+2/BqZAnbdLKa60HAP42lbTnCzOVAxf9iN8qkifn3muki97w39XWWE8j
 o4ZADw==
 =Fgir  
 -----END PGP PUBLIC KEY BLOCK-----  
-
----
+```
