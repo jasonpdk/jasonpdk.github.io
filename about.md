@@ -8,9 +8,9 @@ My name is Jason Keane. You can contact me at jason@keane.id
 
 ## PGP Key
 ```
------BEGIN PGP PUBLIC KEY BLOCK-----  
-Version: OpenPGP.js v4.10.1  
-Comment: https://openpgpjs.org  
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
 
 xjMEXQZPeBYJKwYBBAHaRw8BAQdAc9OWqVzVLEsjqy3NApU7B4cqZk4gwMB3
 imVecuNl4+rNH2phc29uQGtlYW5lLmlkIDxqYXNvbkBrZWFuZS5pZD7CdwQQ
@@ -21,6 +21,6 @@ AQEHQLtJo8dn4oiUqOdidl/FpZyXpvqWU8JCnv8uGJCRNSoiAwEIB8JhBBgW
 CAAJBQJdBk94AhsMAAoJEPvDFISyOE5u5OsA/RZVMl0f6hcgq242pKAOQR4O
 n0Su+2/BqZAnbdLKa60HAP42lbTnCzOVAxf9iN8qkifn3muki97w39XWWE8j
 o4ZADw==
-=Fgir  
------END PGP PUBLIC KEY BLOCK-----  
+=Fgir
+-----END PGP PUBLIC KEY BLOCK-----
 ```
