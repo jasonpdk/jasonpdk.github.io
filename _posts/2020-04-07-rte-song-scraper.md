@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RTE Song Scraper
-subtitle: A Python script that scrapes a RTE Radio 1 Show page for songs played and adds them to a spotify playlist
+subtitle: A Python script for scraping RTE Radio 1 show pages
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Programming, Python]
