@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Lough Atorick Lake
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Sliabh Aughty, walks]
 comments: true
 ---
