@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lough Atorick Lake
-tags: [Sliabh Aughty, walks]
+tags: [Sliabh Aughty, Walks]
 comments: true
 ---
 # Lough Atorick Lake

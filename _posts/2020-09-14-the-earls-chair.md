@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Earl's Chair in Derrybrien
-tags: [Sliabh Aughty, Historical Sites]
+tags: [Sliabh Aughty, Historical Sites, Walks]
 comments: true
 ---
 The Earl's Chair is an interesting site near one of the entrances to the [infamous Derrybrien Wind Farm](https://www.agriland.ie/farming-news/derrybrien-wind-farm-how-it-all-went-wrong/). This chair like rock formation was used by the local "gentry" as a resting spot when they were hunting in the mountain (hence the name) but the site may also be one of the earliest coronation sites in Connacht.
