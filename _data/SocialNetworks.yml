@@ -17,6 +17,11 @@ github:
   urlTemplate: "https://github.com/{value}"
   icon: "fab fa-github"
 
+flickr:
+  name: "Flickr"
+  urlTemplate: "https://flickr.com/photos/{value}"
+  icon: "fab fa-flickr"
+
 twitter:
   name: "Twitter"
   urlTemplate: "https://twitter.com/{value}"
