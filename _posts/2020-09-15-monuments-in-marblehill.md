@@ -9,7 +9,7 @@ comments: true
 ![Marblehill House]({{ 'img/marblehill/marblehill_house.jpg' | relative_url }})
 Marblehill House was 
 
-![Map]({{ 'img/marblehill/marblehill_map_1.jpg' | relative_url }})
+![Map]({{ 'img/marblehill/marblehill_map_1.png' | relative_url }})
 
 ![Anomalous Stone Group]({{ 'img/marblehill/anomalous_stone_group_1.jpg' | relative_url }})
 ![Anomalous Stone Group]({{ 'img/marblehill/anomalous_stone_group_2.jpg' | relative_url }})
@@ -20,7 +20,7 @@ Marblehill House was
 ![Ice House]({{ 'img/marblehill/ice_house_3.jpg' | relative_url }})
 
 # Tombs
-![Map]({{ 'img/marblehill/marblehill_map_2.jpg' | relative_url }})
+![Map]({{ 'img/marblehill/marblehill_map_2.png' | relative_url }})
 
 ## Wedge Tomb
 ![Wedge Tomb]({{ 'img/marblehill/wedge_tomb_1.jpg' | relative_url }})
