@@ -56,6 +56,6 @@ The Ice House was used as cold storage in a time before electric refrigeration. 
 
 # Links
 [Stone Monuments in the Ballinakill District - Michael MacMahon](https://www.jstor.org/stable/25535504)  
-[Video by Martin Fahy](https://www.facebook.com/322374765178769/videos/269626050807436/)
-[Wedge Tomb](https://field-monuments.galwaycommunityheritage.org/content/archaeology/field-monuments/ballinakill-wedge-tomb)
+[Video by Martin Fahy](https://www.facebook.com/322374765178769/videos/269626050807436/)  
+[Wedge Tomb](https://field-monuments.galwaycommunityheritage.org/content/archaeology/field-monuments/ballinakill-wedge-tomb)  
 [Portal Tomb](https://field-monuments.galwaycommunityheritage.org/content/archaeology/field-monuments/portal-tomb-marblehill)
