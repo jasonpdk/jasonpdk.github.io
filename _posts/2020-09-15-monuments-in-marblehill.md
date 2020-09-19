@@ -17,12 +17,12 @@ Thomas's son [John Burke](https://en.wikipedia.org/wiki/Sir_John_Burke,_2nd_Baro
 
 In 1901 the house was occupied by Henry Burke, the census from that year shows him along with 6 servants.
 
-![Marble Hill Census 1901]({{ 'img/marblehill/marblehill/census1901.png' | relative_url }})
+![Marble Hill Census 1901]({{ 'img/marblehill/marblehillcensus1901.png' | relative_url }})
 
 The house was almost entirely self sufficient and from the census return we can get an idea of the size of the house and the quanity of the outbuildings.
 
-![Marble Hill Census 1901]({{ 'img/marblehill/marblehill/marblehillhousebuildingreturn.png' | relative_url }})
-![Marble Hill Census 1901]({{ 'img/marblehill/marblehill/marblehilloutbuildings.png' | relative_url }})
+![Marble Hill Census 1901]({{ 'img/marblehill/marblehillhousebuildingreturn.png' | relative_url }})
+![Marble Hill Census 1901]({{ 'img/marblehill/marblehilloutbuildings.png' | relative_url }})
 
 The house was burned by local IRA on 13th of June 1921.
 
