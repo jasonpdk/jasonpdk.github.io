@@ -24,7 +24,7 @@ We then headed towards the dry bed of the Corra River that runs through a ravine
 ![Entrance to the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance-2.jpg' | relative_url }})
 ![Entrance to the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance.jpg' | relative_url }})
 
-The cave is 1m high and 1.5m wide, the passage continues for 10m into a small chamber.
+The cave is 1m high and 1.5m wide, the passage continues for 10m into a small chamber which is currently all flooded.
 ![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-passage.jpg' | relative_url }})
 ![Looking out the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/looking-out-the-danes-den.jpg' | relative_url }})
 ![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' | relative_url }})
