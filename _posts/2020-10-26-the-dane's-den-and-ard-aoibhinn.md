@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dane's Den ann Ard Aoibhinn
+title: The Dane's Den and Ard Aoibhinn
 tags: [Sliabh Aughty, Historical Sites, Walks]
 comments: true
 ---
