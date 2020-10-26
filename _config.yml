@@ -116,7 +116,7 @@ url-pretty: "jason@keane.id"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "keane-id.disqus.com"
+disqus: "keane-id"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
