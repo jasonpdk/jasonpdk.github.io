@@ -29,7 +29,7 @@ The cave is 1m high and 1.5m wide, the passage continues for 10m into a small ch
 ![Looking out the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/looking-out-the-danes-den.jpg' | relative_url }})
 ![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' | relative_url }})
 
-Then headed up to the top of Ard Aoibhinn (also called Cappaghabaun/Cappabane) and after a steep climb to 378m we had brilliant views in all directions.
+Then we headed up to the top of Ard Aoibhinn (also called Cappaghabaun/Cappabane) and after a steep climb to 378m we had brilliant views in all directions.
 ![Track up the Mountain]({{ 'img/the_danes_den_and_ard_aoibhinn/track-up-the-mountain.jpg' | relative_url }})
 ![View of Lough Derg]({{ 'img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg.jpg' | relative_url }})
 ![View of Lough Derg]({{ 'img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg-2.jpg' | relative_url }})
