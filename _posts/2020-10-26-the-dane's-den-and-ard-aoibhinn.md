@@ -21,13 +21,13 @@ On the way we came across the ruin of a house. It must have been tough living he
 
 We then headed towards the dry bed of the Corra River that runs through a ravine between Scalp mountain and Ard Aoibhinn. Walking along this we spotted the cave on the other side. After climbing down one side onto the river bed and up the other we came to the entrance of the Dane's Den.
 ![Corra River Bed]({{ 'img/the_danes_den_and_ard_aoibhinn/corra-river-bed.jpg' | relative_url }})
-![Entrance to the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance.jpg' | relative_url }})
 ![Entrance to the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance-2.jpg' | relative_url }})
+![Entrance to the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance.jpg' | relative_url }})
 
 The cave is 1m high and 1.5m wide, the passage continues for 10m into a small chamber.
 ![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-passage.jpg' | relative_url }})
-![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' | relative_url }})
 ![Looking out the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/looking-out-the-danes-den.jpg' | relative_url }})
+![Inside the Dane's Den]({{ 'img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' | relative_url }})
 
 Then headed up to the top of Ard Aoibhinn (also called Cappaghabaun/Cappabane) and after a steep climb to 378m we had brilliant views in all directions.
 ![Track up the Mountain]({{ 'img/the_danes_den_and_ard_aoibhinn/track-up-the-mountain.jpg' | relative_url }})
