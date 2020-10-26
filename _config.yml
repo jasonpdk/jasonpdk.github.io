@@ -99,7 +99,7 @@ url-pretty: "jason@keane.id"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-Y4V5M45GXE"
 
 # Google Tag Manager ID
 #gtm: ""
