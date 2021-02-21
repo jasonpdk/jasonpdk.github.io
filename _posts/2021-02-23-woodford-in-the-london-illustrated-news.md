@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Woodfrod Evictions in the London Illustrated News
+title: The Woodford Evictions in the London Illustrated News
 tags: [Local History]
 comments: true
 ---
