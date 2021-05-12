@@ -5,7 +5,7 @@ tags: [Sliabh Aughty, Historical Sites, Walks]
 comments: true
 ---
 
-Triangulation Pillars or Trig Pillars are concrete pillars, 4 feet high and 2 feet square at the base positioned on high points throughout the country that were used by the Ordnance Survey for mapping. Several others can be seen from each pillar so that their position could be triangulated using a theodolite that was fixed to a metal plate on the top. There are 6 trig pillars in the Sliabh Aughty Mountains (debatable, it depends on how you define the region). This post is a WIP and I plan to get pictures of all listed below.
+Triangulation Pillars or Trig Pillars are concrete pillars, 4 feet high and 2 feet square at the base positioned on high points throughout the country that were used by the Ordnance Survey for mapping. Several others can be seen from each pillar so that their position could be triangulated using a theodolite that was fixed to a metal plate on the top. The ones listed here were all built around 1959 but there are a previous generation of pillars that were built when Ireland was mapped for the first time between 1824 and 1842 but very little if anything at all remains of them. There are 6 trig pillars in the Sliabh Aughty Mountains (debatable, it depends on how you define the region). This post is a WIP and I plan to get pictures of all listed below.
 
 # Cashlaundrumlahan
 Coordinates: 53.09504, -8.61238  
@@ -87,4 +87,5 @@ Height: 93m
 # Links
 [Trig Pointing Ireland - About](http://www.trigpointing-ireland.org.uk/about.php)
 [Trig Pointing Ireland - Gridref](http://www.trigpointing-ireland.org.uk/gridref.php)
+[Trig Pillars ,Triangulation and the Mapping of Ireland](http://brothersofthelug.ie/passage-tombs-tom-barragry/)
 
