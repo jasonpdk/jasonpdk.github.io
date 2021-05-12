@@ -59,7 +59,7 @@ Coordinates: 53.10013, -8.8294
 Irish Grid Reference: M445058  
 Height: 123m  
 
-This is recorded by Trigpointing Ireland but I'm not sure if it exists. The grid reference given puts it right in the middle of the new M18 motorway just outside Gort. It's possible it could have been destroyed during the construction of the motorway but there is no record of it there on the 25" OS map.
+This is recorded by Trigpointing Ireland but I'm not sure if it exists. The grid reference given puts it right in the middle of the new M18 motorway just outside Gort. It's possible it could have been destroyed during the construction of the motorway.
 
 ## Derryfrench
 Coordinates: 53.15996, -8.38142  
