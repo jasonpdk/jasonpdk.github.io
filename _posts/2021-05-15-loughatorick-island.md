@@ -5,7 +5,7 @@ tags: [Sliabh Aughty, Historical Sites]
 comments: true
 ---
 
-There is an island of about 2 acres in the north eastern section of Lough Atorick Lake. The island is in Slieveanore, the largest townland in County Clare. I've heard that it's called Leonard's Island which would make sense as that's a common name in Slieveanore but I haven't been able to verify it. The island is surrounded by native trees, mainly Sally's (Willow) and Holly but there are others too. The middle of the island rises into a small hill which is mainly covered in ferns and heather.
+There is an island of about 2 acres in the north western section of Lough Atorick Lake. The island is in Slieveanore, the largest townland in County Clare. I've heard that it's called Leonard's Island which would make sense as that's a common name in Slieveanore but I haven't been able to verify it. The island is surrounded by native trees, mainly Sally's (Willow) and Holly but there are others too. The middle of the island rises into a small hill which is mainly covered in ferns and heather.
 
 ![Lough Atorick Island]({{ 'img/loughatorick_island/img/loughatorick_island_from_water.JPG' | relative_url }})
 
