@@ -9,7 +9,7 @@ There is an island of about 2 acres in the north western section of Lough Atoric
 
 ![Lough Atorick Island]({{ 'img/loughatorick_island/img/loughatorick_island_from_water.JPG' | relative_url }})
 
-There are the remains of a very old house on the South-Eastern end. There is a story from the schools collection about the man that lived there and his unfortunate end. No one appears to be living on the island in the Griffith Valuation which was completed in Clare in 1855. Judging by the state of the house and the story from the School's Collection below referring to "ancient times", the man was probably long gone by then.
+There are the remains of a very old house on the south eastern end. There is a story from the schools collection about the man that lived there and his unfortunate end. No one appears to be living on the island in the Griffith Valuation which was completed in Clare in 1855. Judging by the state of the house and the story from the School's Collection below referring to "ancient times", the man was probably long gone by then.
 
 ![Lough Atorick Island Story]({{ 'img/loughatorick_island/img/duchas-island-story.jpg' | relative_url }})
 
