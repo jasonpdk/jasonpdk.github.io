@@ -28,3 +28,6 @@ A large standing stone on top of a hill in the townland of Knockroe in Ballinaki
 <iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.098490,-8.463938&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 Note that this monument is on private land and permission must be received from the land owner to visit it.
+
+# Links
+[Stone Monuments in the Ballinakill District - Michael MacMahon (JSTOR)](https://www.jstor.org/stable/25535504?seq=1)
