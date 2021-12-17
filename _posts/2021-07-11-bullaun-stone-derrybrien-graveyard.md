@@ -39,7 +39,7 @@ The stone is said to be the place where St. Patrick knelt while blessing the wom
 
 Eye problems are the most common cure associated with the stone but there's also a more unusual one in the School's Collection from Gort School.
 
-![School's Collection Story]({{ 'img/bullaun_stone_derrybrien_graveyard/CBES_0050_0031.jpg' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/CBES_0050_0031.jpg' }})
 
 > In the middle of Derrybrien graveyard there is a big rock and on it are two holes which are the prints of Saint Patrick's two knees. One hole is bigger than the other because it is said one of Saint Patrick's knees was swollen when he knelt there. It is believed that people who do rounds and pray at this rock are cured of swollen feet.
 
