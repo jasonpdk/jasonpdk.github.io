@@ -11,7 +11,7 @@ There is a standing stone in [Cullenagh (Ballinakill, Galway)](https://www.townl
 
 The stone is 1.5m high and is in the junction of two walls. The [Historic Environment Viewer](https://maps.archaeology.ie/HistoricEnvironment/) refers to it as a possible standing stone.
 
-![Cullenagh Standing Stone Historic Environment Viewer]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cullenagh_standing_stone/cullenagh_standing_stone_heviewer.png' }})
+![Cullenagh Standing Stone Historic Environment Viewer]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/cullenagh_standing_stone/cullenagh_standing_stone_heviewer.png' }})
 
 ![Cullenagh Standing Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/cullenagh_standing_stone/IMG_3933.JPG' }})
 ![Cullenagh Standing Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/cullenagh_standing_stone/IMG_3893.JPG' }})

@@ -7,22 +7,22 @@ comments: true
 
 Loughalee (also Loughaunlee) Lake is a small lake of about 7 acres in Derrybrien East. It has forestry on three sides and extremely wet boggy land on the other.
 
-![Loughalee Lake 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_25inch_map.png' }})
+![Loughalee Lake 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_25inch_map.png' }})
 
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_1.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_2.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_3.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_4.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_5.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_6.JPG' }})
-![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/loughalee_lake_7.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_1.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_2.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_3.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_4.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_5.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_6.JPG' }})
+![Loughalee Lake]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/loughalee_lake_7.JPG' }})
 
 The Owendallulleegh River runs just to the south of it.
-![Owendallulleegh River ]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/river.JPG' }})
+![Owendallulleegh River ]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/river.JPG' }})
 
 The name Loughalee possibly translates as *Loch an [Lao](https://www.teanglann.ie/ga/fgb/lao)* meaning the Lake of the young calf. An interesting story in the School's Collection from the Wasteland's School tells us where the name came from.
 
-![Loughalee School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/loughalee_lake/CBES_0051_0128.jpg' }})
+![Loughalee School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughalee_lake/CBES_0051_0128.jpg' }})
 > My house is built on a high hill overlooking Loughalee Lake and rivers. This is how Loughalee Lake got its name. Maeve the queen of Connacht had two calves and they strayed away from her and we're drowned in that lake.
 
 “[The Schools’ Collection, Volume 0051, Page 0128](https://www.duchas.ie/en/cbes/4583315/4578864)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
