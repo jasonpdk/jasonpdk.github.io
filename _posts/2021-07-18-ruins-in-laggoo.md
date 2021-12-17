@@ -1,0 +1,71 @@
+---
+layout: post
+title: Ruins in Laggoo
+tags: [Sliabh Aughty, Historical Sites, Local History, Ruins]
+comments: true
+---
+
+[Laggoo](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/laggoo/) is a townland in the Electoral Division of Marblehill, the parish of Ballinakill, the Barony of Leitrim, and the County Galway. There are several ruins in the townland.
+
+*This post is a Work in Progress.*
+
+![Lagoo Griffith Valuation Map]({{ 'img/ruins/laggoo/laggoo_griffith_valuation_map.png' | relative_url }})
+
+## [Moran's House (1A)](#morans-house)
+![Moran's House Laggoo 25" Map]({{ 'img/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' | relative_url }})
+
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_1.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_2.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_3.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_4.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_5.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_6.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_7.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_8.JPG' | relative_url }})
+
+### Griffith Valuation
+![Moran's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/morans_house/records/griffith_valuation/moran_laggoo_griffith_valuation.png' | relative_url }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388908/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465874/)
+
+## [Tuohy's House (8A)](#tuohys-house)
+![Tuohy's House Laggoo 25" Map]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_25inch_map.png' | relative_url }})
+
+![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_1.JPG' | relative_url }})
+![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_2.JPG' | relative_url }})
+![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_3.JPG' | relative_url }})
+
+### Griffith Valuation
+![Tuohy's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/tuohys_house/records/griffith_valuation/tuohy_laggoo_griffith_valuation.png' | relative_url }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388916/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465861/)
+
+## [Hooban's House (4)](#hoobans-house)
+![Hooban's House Laggoo 25" Map]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_25inch_map.png' | relative_url }})
+
+![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_1.JPG' | relative_url }})
+![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_2.JPG' | relative_url }})
+![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_3.JPG' | relative_url }})
+![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_4.JPG' | relative_url }})
+
+### Griffith Valuation
+![Hooban's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/hoobans_house/records/griffith_valuation/hooban_laggoo_griffith_valuation.png' | relative_url }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388907/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465873/)
+
+# Map
+<iframe src="https://www.google.com/maps/d/embed?mid=1JXgBtRnYhTCVQC4C9Gy9FTD1Q0l_wi5k" width="640" height="480"></iframe>
+
+# Links
+[O'Donovan's Field Books](http://places.webworld.org/place/46071)  
+[Logainm](https://www.logainm.ie/en/20195)  
+[Griffith Valuation](http://www.askaboutireland.ie/griffith-valuation/index.xml?action=doNameSearch&PlaceID=552001&county=Galway&barony=Leitrim&parish=Ballynakill&townland=%3Cb%3ELaggoo%3C/b%3E)  
+[1901 Census](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/)  
+[1911 Census](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/)  
+[Tithe Applotment Books](http://titheapplotmentbooks.nationalarchives.ie/search/tab/results.jsp?county=Galway&parish=Ballynakill&townland=Lagough&search=Search)  
