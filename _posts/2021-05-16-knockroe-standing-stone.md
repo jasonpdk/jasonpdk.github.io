@@ -7,20 +7,20 @@ comments: true
 
 A large standing stone on top of a hill in the townland of Knockroe in Ballinakill, Co. Galway. The stone is 2.4m high and 1.2m wide and is referred to as "Carrickbreaga" on the 25" Ordnance Survey map, possibly "carraig bréaga - the rock of lies", an interesting name to be sure!
 
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_25_map.png' | relative_url }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_25_map.png' }})
 
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_1.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_2.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_3.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_4.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_5.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_6.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_7.JPG' | relative_url }})
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_8.JPG' | relative_url }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_1.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_2.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_3.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_4.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_5.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_6.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_7.JPG' }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_8.JPG' }})
 
 
 # Folklore
-![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_folklore.jpg' | relative_url }})
+![School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/knockroe_standing_stone/knockroe_standing_stone_folklore.jpg' }})
 
 “[The Schools’ Collection, Volume 0051, Page 0037](https://www.duchas.ie/en/cbes/4583314/4578773/4586898)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
 
