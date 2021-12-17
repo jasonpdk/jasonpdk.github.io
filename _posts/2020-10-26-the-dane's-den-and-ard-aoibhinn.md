@@ -12,31 +12,31 @@ The Dane's Den is a natural cave near the Clare border in the Sliabh Aughty Moun
 There are also stories of the cave being used by various outlaws, herdsmen, and priests over the years. On our way up we met a local man who told us that he brought Gardaí up to the cave in 1994 in search of the infamous [Brendan O'Donnell](https://www.independent.ie/lifestyle/the-landscape-of-a-nightmare-30135907.html) after he committed 3 terrible murders in the area. There were suspicions he was hiding in the cave but they found nothing only a few empty packs of biscuits.
 
 We started out on a road up the mountain and through a track of forestry in Derrygoolin with a path that leads out onto the mountain. The views were lovely before we did any walking at all!
-![The Mountain Road]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/road-at-the-start.jpg' | relative_url }})
+![The Mountain Road]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/road-at-the-start.jpg' }})
 
 On the way we came across the ruin of a house. It must have been tough living here!
-![Old House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-1.jpg' | relative_url }})
-![Old House]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-2.jpg' | relative_url }})
-![Old House]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-3.jpg' | relative_url }})
+![Old House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-1.jpg' }})
+![Old House]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-2.jpg' }})
+![Old House]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/old-house-3.jpg' }})
 
 We then headed towards the Blue River that runs through a kind of ravine between Scalp mountain and Ard Aoibhinn. Walking along this we spotted the cave on the other side. After climbing down one side onto the river bed and up the other we came to the entrance of the Dane's Den.
-![Corra River Bed]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/corra-river-bed.jpg' | relative_url }})
-![Entrance to the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance-2.jpg' | relative_url }})
-![Entrance to the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance.jpg' | relative_url }})
+![Corra River Bed]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/corra-river-bed.jpg' }})
+![Entrance to the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance-2.jpg' }})
+![Entrance to the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-entrance.jpg' }})
 
 The cave is 1m high and 1.5m wide, the passage continues for 10m into a small chamber which is currently all flooded.
-![Inside the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-passage.jpg' | relative_url }})
-![Looking out the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/looking-out-the-danes-den.jpg' | relative_url }})
-![Inside the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' | relative_url }})
+![Inside the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-passage.jpg' }})
+![Looking out the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/looking-out-the-danes-den.jpg' }})
+![Inside the Dane's Den]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/the-danes-den-roof.jpg' }})
 
 Then we headed up to the top of Ard Aoibhinn (also called Cappaghabaun/Cappabane) and after a steep climb to 378m we had brilliant views in all directions.
-![Track up the Mountain]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/track-up-the-mountain.jpg' | relative_url }})
-![View of Lough Derg]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg.jpg' | relative_url }})
-![View of Lough Derg]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg-2.jpg' | relative_url }})
-![View of Lough Atorick]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-atorick.jpg' | relative_url }})
+![Track up the Mountain]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/track-up-the-mountain.jpg' }})
+![View of Lough Derg]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg.jpg' }})
+![View of Lough Derg]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-derg-2.jpg' }})
+![View of Lough Atorick]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/view-of-lough-atorick.jpg' }})
 
 We could even see the refugee monks' home, Holy Island.
-![View of Holy Island]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/holy-island.jpg' | relative_url }})
+![View of Holy Island]({{ https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/holy-island.jpg' }})
 
 # Map
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KsP_RmeX96SqFgX2Q22IjPtz1VEndNBv" width="640" height="480"></iframe>

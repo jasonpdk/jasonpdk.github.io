@@ -12,35 +12,35 @@ Coordinates: 53.09504, -8.61238
 Irish Grid Reference: M5903005088  
 Height: 338.4m  
 
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_1.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_2.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_3.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_4.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_5.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_6.JPG' | relative_url }})
-![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_7.JPG' | relative_url }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_1.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_2.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_3.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_4.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_5.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_6.JPG' }})
+![Cashlaundrumlahan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cashlaundrumlahan/cashlaundrumlahan_trig_pillar_7.JPG' }})
 
 # Terry Hill / Knockdrummore
 Coordinates: 53.08398, -8.46064  
 Irish Grid Reference: M692037  
 Height: 181m  
 
-![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_1.JPG' | relative_url }})
-![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_2.JPG' | relative_url }})
-![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_3.JPG' | relative_url }})
-![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_4.JPG' | relative_url }})
-![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_5.JPG' | relative_url }})
+![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_1.JPG' }})
+![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_2.JPG' }})
+![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_3.JPG' }})
+![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_4.JPG' }})
+![Knockdrummore Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/knockdrummore/knockdrummore_trig_pillar_5.JPG' }})
 
 # Cloghaun
 Coordinates: 53.13067, -8.67144  
 Irish Grid Reference: M551090  
 Height: 289m  
 
-![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_1.JPG' | relative_url }})
-![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_2.JPG' | relative_url }})
-![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_3.JPG' | relative_url }})
-![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_4.JPG' | relative_url }})
-![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_5.JPG' | relative_url }})
+![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_1.JPG' }})
+![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_2.JPG' }})
+![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_3.JPG' }})
+![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_4.JPG' }})
+![Cloughan Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cloughan/cloughan_trig_pillar_5.JPG' }})
 
 
 # Cappaghabaun
@@ -48,11 +48,11 @@ Coordinates: 52.98002, -8.48041
 Irish Grid Reference: R677922  
 Height: 378m  
 
-![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_1.JPG' | relative_url }})
-![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_2.JPG' | relative_url }})
-![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_3.JPG' | relative_url }})
-![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_4.JPG' | relative_url }})
-![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_5.JPG' | relative_url }})
+![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_1.JPG' }})
+![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_2.JPG' }})
+![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_3.JPG' }})
+![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_4.JPG' }})
+![Cappaghabaun Trig Pillar]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/trig_pillars/cappaghabaun/cappaghabaun_trig_pillar_5.JPG' }})
 
 
 # Maghera
