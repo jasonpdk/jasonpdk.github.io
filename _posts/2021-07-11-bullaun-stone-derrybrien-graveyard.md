@@ -7,11 +7,11 @@ comments: true
 
 There is a double bullaun stone in Derrybrien Graveyard with two large depressions in it.
 
-![Bullaun Stone]({{ 'img/bullaun_stone_derrybrien_graveyard/bullaun_1.JPG' | relative_url }})
-![Bullaun Stone]({{ 'img/bullaun_stone_derrybrien_graveyard/bullaun_2.JPG' | relative_url }})
-![Bullaun Stone]({{ 'img/bullaun_stone_derrybrien_graveyard/bullaun_3.JPG' | relative_url }})
-![Bullaun Stone]({{ 'img/bullaun_stone_derrybrien_graveyard/bullaun_4.JPG' | relative_url }})
-![Bullaun Stone]({{ 'img/bullaun_stone_derrybrien_graveyard/bullaun_5.JPG' | relative_url }})
+![Bullaun Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/bullaun_1.JPG' }})
+![Bullaun Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/bullaun_2.JPG' }})
+![Bullaun Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/bullaun_3.JPG' }})
+![Bullaun Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/bullaun_4.JPG' }})
+![Bullaun Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/bullaun_5.JPG' }})
 
 # Folklore
 ## How Derrybrien Graveyard got its name
@@ -22,7 +22,7 @@ Sonas Druim Shaothráite are shléibhte Dharthaidh Bruín, i.e., May the properi
 >
 > -- <cite>A Forgotten Campaign and Aspects of the Heritage of South East Galway - St. Patrick in Derrybrien (P. 128)</cite>
 
-![Sign]({{ 'img/bullaun_stone_derrybrien_graveyard/sign.JPG' | relative_url }})
+![Sign]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/bullaun_stone_derrybrien_graveyard/sign.JPG' }})
 
 The graveyard in Derrybrien is called Cránn na hOla (The Tree of the Holy Oil). The name comes from a story about St. Patrick anonting a dying woman under a tree there.
 
@@ -39,7 +39,7 @@ The stone is said to be the place where St. Patrick knelt while blessing the wom
 
 Eye problems are the most common cure associated with the stone but there's also a more unusual one in the School's Collection from Gort School.
 
-![School's Collection Story]({{ 'img/bullaun_stone_derrybrien_graveyard/CBES_0050_0031.jpg' | relative_url }})
+![School's Collection Story]({{ 'img/bullaun_stone_derrybrien_graveyard/CBES_0050_0031.jpg' }})
 
 > In the middle of Derrybrien graveyard there is a big rock and on it are two holes which are the prints of Saint Patrick's two knees. One hole is bigger than the other because it is said one of Saint Patrick's knees was swollen when he knelt there. It is believed that people who do rounds and pray at this rock are cured of swollen feet.
 
