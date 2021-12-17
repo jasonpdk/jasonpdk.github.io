@@ -7,13 +7,13 @@ comments: true
 
 This is a radial stone cairn in Cartron South near Ballinakill Church. It's situated on a steep hill and the view from it is very impressive. There's an ash tree growing up in the centre of it. This is the only recorded radial cairn in County Galway, the majority of them are in Cork and Kerry.
 
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_1.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_2.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_3.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_4.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_5.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_6.JPG' | relative_url }})
-![Cartron South Radial Cairn]({{ 'img/cartron_south_radial_cairn/cartron_south_radial_cairn_7.JPG' | relative_url }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_1.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_2.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_3.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_4.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_5.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_6.JPG' }})
+![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/cartron_south_radial_cairn/cartron_south_radial_cairn_7.JPG' }})
 
 # Map
 <iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.086045,-8.456320&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>

@@ -9,22 +9,22 @@ comments: true
 
 *This post is a Work in Progress.*
 
-![Moyglass Griffith Valuation Map]({{ 'img/ruins/moyglass/moyglass_griffith_valuation_map.png' | relative_url }})
+![Moyglass Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/moyglass_griffith_valuation_map.png' }})
 
 ## [Hayes' House (12)](#hayess-house)
-![Moran's House Laggoo 25" Map]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_25inch_map.png' | relative_url }})
+![Moran's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_25inch_map.png' }})
 
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_1.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_2.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_3.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_4.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_5.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_6.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_7.JPG' | relative_url }})
-![Hayes' House Moyglass]({{ 'img/ruins/moyglass/hayes_house/hayes_house_moyglass_8.JPG' | relative_url }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_1.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_2.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_3.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_4.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_5.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_6.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_7.JPG' }})
+![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/hayes_house_moyglass_8.JPG' }})
 
 ### Griffith Valuation
-![Hayes' Moyglass Griffith Valuation]({{ 'img/ruins/moyglass/hayes_house/records/griffith_valuation/hayes_moyglass_griffith_valuation.png' | relative_url }})
+![Hayes' Moyglass Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/moyglass/hayes_house/records/griffith_valuation/hayes_moyglass_griffith_valuation.png' }})
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1bR75ani1RryjVKXgw0gCQNonHHbb3iEd&ehbc=2E312F" width="640" height="480"></iframe>

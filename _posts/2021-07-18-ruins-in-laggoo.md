@@ -12,7 +12,7 @@ comments: true
 ![Lagoo Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/laggoo_griffith_valuation_map.png' }})
 
 ## [Moran's House (1A)](#morans-house)
-![Moran's House Laggoo 25" Map]({{ 'img/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' }})
+![Moran's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' }})
 
 ![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_1.JPG' }})
 ![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_2.JPG' }})
