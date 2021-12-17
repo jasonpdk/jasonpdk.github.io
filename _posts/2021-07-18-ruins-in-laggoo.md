@@ -9,51 +9,51 @@ comments: true
 
 *This post is a Work in Progress.*
 
-![Lagoo Griffith Valuation Map]({{ 'img/ruins/laggoo/laggoo_griffith_valuation_map.png' | relative_url }})
+![Lagoo Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/laggoo_griffith_valuation_map.png' }})
 
 ## [Moran's House (1A)](#morans-house)
-![Moran's House Laggoo 25" Map]({{ 'img/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' | relative_url }})
+![Moran's House Laggoo 25" Map]({{ 'img/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' }})
 
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_1.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_2.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_3.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_4.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_5.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_6.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_7.JPG' | relative_url }})
-![Moran's House Laggoo]({{ 'img/ruins/laggoo/morans_house/morans_house_laggoo_8.JPG' | relative_url }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_1.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_2.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_3.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_4.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_5.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_6.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_7.JPG' }})
+![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_8.JPG' }})
 
 ### Griffith Valuation
-![Moran's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/morans_house/records/griffith_valuation/moran_laggoo_griffith_valuation.png' | relative_url }})
+![Moran's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/records/griffith_valuation/moran_laggoo_griffith_valuation.png' }})
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388908/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465874/)
 
 ## [Tuohy's House (8A)](#tuohys-house)
-![Tuohy's House Laggoo 25" Map]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_25inch_map.png' | relative_url }})
+![Tuohy's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_25inch_map.png' }})
 
-![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_1.JPG' | relative_url }})
-![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_2.JPG' | relative_url }})
-![Tuohy's House Laggoo]({{ 'img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_3.JPG' | relative_url }})
+![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_1.JPG' }})
+![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_2.JPG' }})
+![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_3.JPG' }})
 
 ### Griffith Valuation
-![Tuohy's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/tuohys_house/records/griffith_valuation/tuohy_laggoo_griffith_valuation.png' | relative_url }})
+![Tuohy's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/records/griffith_valuation/tuohy_laggoo_griffith_valuation.png' }})
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388916/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465861/)
 
 ## [Hooban's House (4)](#hoobans-house)
-![Hooban's House Laggoo 25" Map]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_25inch_map.png' | relative_url }})
+![Hooban's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_25inch_map.png' }})
 
-![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_1.JPG' | relative_url }})
-![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_2.JPG' | relative_url }})
-![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_3.JPG' | relative_url }})
-![Hooban's House Laggoo]({{ 'img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_4.JPG' | relative_url }})
+![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_1.JPG' }})
+![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_2.JPG' }})
+![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_3.JPG' }})
+![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_4.JPG' }})
 
 ### Griffith Valuation
-![Hooban's Laggoo Griffith Valuation]({{ 'img/ruins/laggoo/hoobans_house/records/griffith_valuation/hooban_laggoo_griffith_valuation.png' | relative_url }})
+![Hooban's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/records/griffith_valuation/hooban_laggoo_griffith_valuation.png' }})
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388907/)  
