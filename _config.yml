@@ -21,6 +21,7 @@ description: Personal Site
 # List of links in the navigation bar
 navbar-links:
   About: "about"
+  Ruins: "ruins"
   Links: "links"
   Tags: "tags"
 
