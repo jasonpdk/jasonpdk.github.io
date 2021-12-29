@@ -20,7 +20,7 @@ There are several similar valleys between the lake and [Cloughan Trig Pillar](ht
 ![Lough Belshra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_belshra/kilnagappagh_valley_2.JPG' }})
 
 # Folklore
-The lake is mentioned in several stories in the School's Collection from schools around the area. They vary in the details but they are broadly similar. Several agree that there was once plenty of fish in the lake but Priest put a curse on it and since then there have been none, they differ though in the reason he cursed it. Two say that the lake was once in a different place, one of them actually tells us where, near [Finnegan's House](#finnegans_house). Most agree that the lake is a spooky place frequented by fairies and other strange creatures and not to be visited at night!
+The lake is mentioned in several stories in the School's Collection from schools around the area. They vary in the details but they are broadly similar. Several agree that there was once plenty of fish in the lake but Priest put a curse on it and since then there have been none, they differ though in the reason he cursed it. Two say that the lake was once in a different place, one of them actually tells us where, near [Finnegan's House](#finnegan's house). Most agree that the lake is a spooky place frequented by fairies and other strange creatures and not to be visited at night!
 
 ![Lough Belshra School's Collection Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_belshra/CBES_0059_0285.jpg' }})
 
