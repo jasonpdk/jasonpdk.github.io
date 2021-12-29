@@ -66,8 +66,3 @@ The lake is about 2.3km from this house.
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1Xbc0CJU3E2wq9PhQ8TxZiINGPK0ffFMs&ehbc=2E312F" width="640" height="480"></iframe>
-
-# Links
-https://www.duchas.ie/en/cbes/4583349/4581896/4606125
-https://www.duchas.ie/en/cbes/4583346/4581603/4592708
-https://www.duchas.ie/en/cbes/4583348/4581848/4606048?ChapterID=4583348
