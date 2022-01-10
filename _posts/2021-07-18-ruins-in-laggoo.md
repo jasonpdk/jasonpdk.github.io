@@ -35,6 +35,7 @@ comments: true
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_2.JPG' }})
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_3.JPG' }})
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_4.JPG' }})
+![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_5.JPG' }})
 
 ### Griffith Valuation
 ![Tuohy's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/records/griffith_valuation/tuohy_laggoo_griffith_valuation.png' }})
