@@ -34,6 +34,7 @@ comments: true
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_1.JPG' }})
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_2.JPG' }})
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_3.JPG' }})
+![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_4.JPG' }})
 
 ### Griffith Valuation
 ![Tuohy's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/records/griffith_valuation/tuohy_laggoo_griffith_valuation.png' }})
@@ -48,7 +49,6 @@ comments: true
 ![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_1.JPG' }})
 ![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_2.JPG' }})
 ![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_3.JPG' }})
-![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_4.JPG' }})
 
 ### Griffith Valuation
 ![Hooban's Laggoo Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/records/griffith_valuation/hooban_laggoo_griffith_valuation.png' }})
