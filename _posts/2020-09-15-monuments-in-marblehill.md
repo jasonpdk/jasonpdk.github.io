@@ -31,10 +31,6 @@ The house was burned by local IRA on 13th of June 1921. The participants are lis
 The fields surrounding the house contain several interesting monuments.
 ![Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/marblehill_map_1.png' }})
 
-## Anomalous Stone Group (GA125-125----)
-![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/1.jpg' }})
-![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/2.jpg' }})
-
 ## Ice House (GA125-124003-)
 The Ice House was used as cold storage in a time before electric refrigeration. It is built into the side of a ringfort and the entrance faces north so as to catch as little sunshine as possible. This ringfort is said to contain a souterrain (underground passage).
 ![Ice House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/ice_house_GA125-124003-/1.jpg' }})
@@ -64,6 +60,10 @@ The Ice House was used as cold storage in a time before electric refrigeration. 
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/2.JPG' }})
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/3.JPG' }})
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/4.JPG' }})
+
+## Anomalous Stone Group (GA125-125----)
+![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/1.jpg' }})
+![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/2.jpg' }})
 
 # Map
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TZtSRkC0EoefkaJHkwtc2_Rt4d4J6hNM" width="640" height="480"></iframe>
