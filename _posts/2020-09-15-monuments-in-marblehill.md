@@ -37,7 +37,7 @@ The Ice House was used as cold storage in a time before electric refrigeration. 
 ![Ice House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/ice_house_GA125-124003-/2.jpg' }})
 ![Ice House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/ice_house_GA125-124003-/3.jpg' }})
 
-## Wedge Tomb (GA125-121----)
+## Wedge Tomb (GA125-121\-\-\-\-)
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-121----/1.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-121----/2.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-121----/3.JPG' }})
@@ -45,23 +45,23 @@ The Ice House was used as cold storage in a time before electric refrigeration. 
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-121----/5.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-121----/6.JPG' }})
 
-## Wedge Tomb (GA125-128----)
+## Wedge Tomb (GA125-128\-\-\-\-)
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-128----/1.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-128----/2.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-128----/3.JPG' }})
 ![Wedge Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/wedge_tomb_GA125-128----/4.JPG' }})
 
-## Portal Tomb (GA125-119----)
+## Portal Tomb (GA125-119\-\-\-\-)
 ![Portal Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/portal_tomb_GA125-119----/1.jpg' }})
 ![Portal Tomb]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/portal_tomb_GA125-119----/2.jpg' }})
 
-## Megalithic Structure (GA125-123----)
+## Megalithic Structure (GA125-123\-\-\-\-)
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/1.JPG' }})
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/2.JPG' }})
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/3.JPG' }})
 ![Megalithic Structure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/megalithic_structure_GA125-123----/4.JPG' }})
 
-## Anomalous Stone Group (GA125-125----)
+## Anomalous Stone Group (GA125-125\-\-\-\-)
 ![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/1.jpg' }})
 ![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/2.jpg' }})
 
