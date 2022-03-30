@@ -9,7 +9,7 @@ comments: true
 
 *This post is a Work in Progress.*
 
-![Knockmoyle East Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/knockmoyle_east_griffith_map.png' }})
+![Knockmoyle East Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/knockmoyle_east_griffith_map.jpg' }})
 
 ## [Patrick Tuohy's House (20c)](#tuohys-house)
 ![Tuohy's House Knockmoyle East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/1.JPG' }})
@@ -23,7 +23,7 @@ Martin E. Tuohy was born in this house in 1879 and emigrated to America in 1896.
 ![Tuohy's House Knockmoyle East Model]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/tuohy_house_model_newspaper.jpg' }})
 
 ### Griffith Valuation
-![Hayes' Moyglass Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/patrick_tuohy_knockmoyle_east_griffith.png' }})
+![Tuohy's Knockmoyle East Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/patrick_tuohy_knockmoyle_east_griffith.png' }})
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Knockmoyle_East/1388892/)  
