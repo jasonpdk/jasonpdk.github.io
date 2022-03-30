@@ -11,7 +11,7 @@ comments: true
 
 ![Knockmoyle East Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/knockmoyle_east_griffith_map.jpg' }})
 
-## [Patrick Tuohy's House (20c)](#tuohys-house)
+## [Patrick Tuohy's House (20c)](#patrick-tuohys-house-20c)
 ![Tuohy's House Knockmoyle East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/1.JPG' }})
 ![Tuohy's House Knockmoyle East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/2.JPG' }})
 ![Tuohy's House Knockmoyle East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/tuohy_20c/3.JPG' }})
