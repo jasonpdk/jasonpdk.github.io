@@ -9,7 +9,7 @@ comments: true
 
 ![Lagoo Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/laggoo_griffith_valuation_map.png' }})
 
-## [Moran's House (1A)](#morans-house)
+## [Moran's House (1A)](#morans-house-1a)
 ![Moran's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/moran_laggoo_25inch_map.png' }})
 
 ![Moran's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/morans_house/morans_house_laggoo_1.JPG' }})
@@ -28,7 +28,7 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388908/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465874/)
 
-## [Tuohy's House (8A)](#tuohys-house)
+## [Tuohy's House (8A)](#tuohys-house-8a)
 ![Tuohy's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_25inch_map.png' }})
 
 ![Tuohy's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/tuohys_house/tuohys_house_laggoo_1.JPG' }})
@@ -44,7 +44,7 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Marble_Hill/Laggoo/1388916/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465861/)
 
-## [Hooban's House (4)](#hoobans-house)
+## [Hooban's House (4)](#hoobans-house-4)
 ![Hooban's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_25inch_map.png' }})
 
 ![Hooban's House Laggoo]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/hoobans_house/hoobans_house_laggoo_1.JPG' }})

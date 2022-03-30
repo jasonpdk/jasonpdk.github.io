@@ -11,7 +11,7 @@ comments: true
 
 ![Moyglass Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/moyglass_griffith_valuation_map.png' }})
 
-## [Hayes' House (12)](#hayess-house)
+## [Hayes' House (12)](#hayes-house-12)
 ![Moran's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/hayes_house/hayes_house_moyglass_25inch_map.png' }})
 
 ![Hayes' House Moyglass]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/hayes_house/hayes_house_moyglass_1.JPG' }})

@@ -11,7 +11,7 @@ comments: true
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
-## [Josie Molloy's House (3B)](#josie-molloys-house)
+## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
 ![Thornton's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_25inch_map.png' }})
 
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_1.JPG' }})
@@ -26,7 +26,7 @@ comments: true
 ### Census
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
 
-## [Thornton's/McMahon's House (12)](#thorntons-house)
+## [Thornton's/McMahon's House (12)](#thorntons-house-12)
 ![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
 
 ![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_1.JPG' }})
