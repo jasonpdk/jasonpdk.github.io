@@ -55,8 +55,8 @@ This is either a second house of a very well built shed.
 There is a possible sweathouse attached to the front of the shed.
 
 ![Sweathouse Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/sweathouse/1.jpg' }})
-![Sweathouse Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/sweathouse/2.jpg' }})
-![Sweathouse Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/sweathouse/3.jpg' }})
+![Sweathouse Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/sweathouse/2.JPG' }})
+![Sweathouse Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/sweathouse/3.JPG' }})
 
 ### [Unknown 2 (36)](#unknown-2-36)
 ![House Derrybrien East 36]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/2/1.JPG' }})
