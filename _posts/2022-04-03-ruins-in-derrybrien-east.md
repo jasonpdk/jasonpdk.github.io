@@ -20,7 +20,7 @@ comments: true
 ### Griffith Valuation
 ![Gormley's House Derrybrien East 34 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/34_michael_gormley/derrybrien_east_34_griffith.png' }})
 
-## Derrybrien East 36
+## [Derrybrien East 36](#derrybrien-east-36)
 Plot 36 is the largest in Derrybrien East on the Griffith Valutation and has several ruins. It covers a huge area of mountain (most of it is planted now) but there are no houses recorded in it so I don't know who lived there.
 ![Derrybrien East Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/derrybrien_east_36_griffith.png' }})
 
