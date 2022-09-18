@@ -11,7 +11,7 @@ comments: true
 
 ![Derrybrien North Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/derrybrien_north_griffith_valuation_map.png' }})
 
-## [Derrybrien North 4)](#derrybrien-north-4)
+## [Derrybrien North 4](#derrybrien-north-4)
 ### [House 1 (36)](#house-1-36)
 ![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_1.JPG' }})
 ![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_2.JPG' }})
