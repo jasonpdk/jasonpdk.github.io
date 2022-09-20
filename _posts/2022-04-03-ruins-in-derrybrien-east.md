@@ -5,7 +5,7 @@ tags: [Sliabh Aughty, Historical Sites, Local History, Ruins]
 comments: true
 ---
 
-[Derrybrien East](https://www.townlands.ie/galway/loughrea/killeenadeema/derrylaur/derrybrien-east/) is a townland in the Electoral Division of Derrylaur, the civil parish of killeenadeema, the Barony of Loughrea, and the County Galway.
+[Derrybrien East](https://www.townlands.ie/galway/loughrea/killeenadeema/derrylaur/derrybrien-east/) is a townland in the Electoral Division of Derrylaur, the civil parish of Killeenadeema, the Barony of Loughrea, and the County Galway.
 
 *This post is a Work in Progress.*
 
