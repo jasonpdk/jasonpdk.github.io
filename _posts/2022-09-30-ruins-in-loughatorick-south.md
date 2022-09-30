@@ -7,6 +7,19 @@ comments: true
 
 [Loughatorick South](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/loughatorick-south/) is a townland in the Electoral Division of Loughatorick, the parish of Ballinakill, the Barony of Leitrim, and the County Galway.
 
+<ol class="toc-list" role="list">
+  <li>
+    <a href="#link_to_heading">
+      <span class="title">Chapter or subsection title</span>
+      <span class="page"><span class="visually-hidden">Page</span> 1</span>
+    </a>
+
+    <ol role="list">
+      <!-- subsection items -->
+    </ol>
+  </li>
+</ol>
+
 *This post is a Work in Progress.*
 
 ![Loughatorick South Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/loughatorick_south_griffith_map.png' }})
@@ -41,7 +54,7 @@ This is an interesting ruin because a galvanised roof was put over the original 
 # [Gorrey](#gorrey)
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
-## [Hayes'/Owen's Houses (15)](#hayes-house-15)
+## [Hayes'/Owen's Houses (15)](#hayesowens-houses-15)
 This is a large complex of well built buildings, there were two houses and several other buildings. William Hayes and Bridget Owens are recorded as living here on the Griffith Valuation.
 
 ![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_1.JPG' }})
