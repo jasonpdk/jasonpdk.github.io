@@ -7,19 +7,6 @@ comments: true
 
 [Loughatorick South](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/loughatorick-south/) is a townland in the Electoral Division of Loughatorick, the parish of Ballinakill, the Barony of Leitrim, and the County Galway.
 
-<ol class="toc-list" role="list">
-  <li>
-    <a href="#link_to_heading">
-      <span class="title">Chapter or subsection title</span>
-      <span class="page"><span class="visually-hidden">Page</span> 1</span>
-    </a>
-
-    <ol role="list">
-      <!-- subsection items -->
-    </ol>
-  </li>
-</ol>
-
 *This post is a Work in Progress.*
 
 ![Loughatorick South Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/loughatorick_south_griffith_map.png' }})
