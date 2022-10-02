@@ -55,7 +55,7 @@ This is a large complex of well built buildings, there were two houses and sever
 ![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_9.JPG' }})
 
 ### Sweathouse
-There is a sweathouse built into a low bank on the south-east side of the ruins.
+There is a [sweathouse](https://field-monuments.galwaycommunityheritage.org/content/archaeology/field-monuments/sweat-houses-galway) built into a low bank on the south-east side of the ruins.
 
 ![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_1.JPG' }})
 ![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_2.JPG' }})
