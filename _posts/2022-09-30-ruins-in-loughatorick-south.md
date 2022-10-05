@@ -77,10 +77,6 @@ There is a lovely example of a corn kiln about 60 metres to the north of this ho
 ![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_corn_kiln_1.JPG' }})
 ![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_corn_kiln_2.JPG' }})
 
-### Census
-[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388774/)  
-[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465744/)
-
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=155SOC3lRUi946b4lzrsik9BKeEoHkuU&ehbc=2E312F" width="640" height="480"></iframe>
 
