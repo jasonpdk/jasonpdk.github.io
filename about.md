@@ -4,7 +4,7 @@ title: About
 subtitle: About this site
 ---
 
-My name is Jason Keane, you can contact me at jason@keane.id. Feel free to use any images on this website, just put a link to where you got it from.
+Feel free to use any images on this website, just put a link to where you got it from.
 
 ## PGP Key
 ```
