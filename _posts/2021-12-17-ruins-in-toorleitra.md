@@ -41,9 +41,24 @@ comments: true
 ### Griffith Valuation
 ![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
 
-## Census
+### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388807/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465763/)
+
+## [Hammel's House (20)](hammels-house-20)
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_1.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_2.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_3.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_4.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_5.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_6.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_7.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_8.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_9.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388797/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465769/)
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1HGwrQ_nE5YN1iq0qck-fxRB95GDj7PJ9&ehbc=2E312F" width="640" height="480"></iframe>
