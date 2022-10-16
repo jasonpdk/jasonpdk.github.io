@@ -60,6 +60,50 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388797/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465769/)
 
+## Flanagan's House (22)
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_1.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_2.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_3.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_4.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_5.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_6.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388799/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465768/)
+
+## Halloran's House (24)
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_1.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_2.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_3.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_4.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_5.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_6.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_7.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_8.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_9.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_10.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388800/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465761/)
+
+## McBride's House (25A)
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_1.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_2.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_3.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_4.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_5.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_6.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_7.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_8.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_9.JPG' }})
+![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_10.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388796/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465760/)
+
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1HGwrQ_nE5YN1iq0qck-fxRB95GDj7PJ9&ehbc=2E312F" width="640" height="480"></iframe>
 
