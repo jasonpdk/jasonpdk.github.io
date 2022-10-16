@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: About this site
 ---
 
 Feel free to use any images on this website, just put a link to where you got it from.
