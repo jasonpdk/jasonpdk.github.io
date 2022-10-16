@@ -38,7 +38,7 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
-## [Charles Kennedy's House (3)](charles-kennedys-house-3)
+## [Charles Kennedy's House (3)](#charles-kennedys-house-3)
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_1.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_2.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_3.JPG' }})
