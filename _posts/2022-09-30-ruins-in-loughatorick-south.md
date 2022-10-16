@@ -38,6 +38,18 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
+## [Charles Kennedy's House (3)](charles-kennedys-house-3)
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_1.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_2.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_3.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_4.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_5.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_6.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_7.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_8.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_9.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_10.JPG' }})
+
 # [Gorrey](#gorrey)
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
