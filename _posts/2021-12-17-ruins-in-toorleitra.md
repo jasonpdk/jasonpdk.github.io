@@ -9,7 +9,7 @@ comments: true
 
 *This post is a Work in Progress.*
 
-**Houses** 
+**Houses**  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 [Thornton's/McMahon's House (12)](#thorntons-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
