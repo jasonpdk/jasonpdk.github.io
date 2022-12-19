@@ -9,6 +9,14 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**Houses** 
+[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
+[Thornton's/McMahon's House (12)](#thorntons-house-12)  
+[Hammel's House (20)](#hammels-house-20)  
+[Flanagan's House (22)](#flanagans-house-22)  
+[Donohoe's House (23)](donohoes-house-23)  
+[McBride's House (25A)](#mcbrides-house-25a)  
+
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
 ## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
@@ -103,9 +111,6 @@ comments: true
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388800/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465761/)
-
-## [Donohoe's House (23)](#donohoes-house-23)
-
 
 ## [McBride's House (25A)](#mcbrides-house-25a)
 ![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_1.JPG' }})
