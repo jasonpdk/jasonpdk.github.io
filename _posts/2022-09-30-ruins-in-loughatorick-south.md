@@ -9,9 +9,19 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**Houses**  
+[Mooney's House (1)](#mooneys-house-1)  
+[Geraghty's House (4)](#geraghtys-house-4)  
+[Charles Kennedy's House (3)](#charles-kennedys-house-3)  
+[Hayes'/Owen's Houses (15)](#hayesowens-houses-15)  
+[Donnellan's House (16)](#donnellans-house-16)  
+
 ![Loughatorick South Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/loughatorick_south_griffith_map.png' }})
 
 ## [Mooney's House (1)](#mooneys-house-1)
+Coordinates: 53.04746, -8.49573  
+Irish Grid Reference: R 66807 99732
+
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_1.JPG' }})
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_2.JPG' }})
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_3.JPG' }})
@@ -19,6 +29,9 @@ comments: true
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_5.JPG' }})
 
 ## [Geraghty's House (4)](#geraghtys-house-4)
+Coordinates: 53.03034, -8.52188  
+Irish Grid Reference: R 65040 97840
+
 This is an interesting ruin because a galvanised roof was put over the original thatch roof so much of the inside still survives.
 
 ![Geraghty's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/4_geraghty/loughatorick_south_4_geraghty_1.JPG' }})
@@ -39,6 +52,9 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
 ## [Charles Kennedy's House (3)](#charles-kennedys-house-3)
+Coordinates: 53.03416, -8.49681  
+Irish Grid Reference: R 66724 98253
+
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_1.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_2.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_3.JPG' }})
@@ -54,6 +70,9 @@ This is an interesting ruin because a galvanised roof was put over the original 
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
 ## [Hayes'/Owen's Houses (15)](#hayesowens-houses-15)
+Coordinates: 53.00691, -8.50866  
+Irish Grid Reference: R 65908 95226
+
 This is a large complex of well built buildings, there were two houses and several other buildings. William Hayes and Bridget Owens are recorded as living here on the Griffith Valuation.
 
 ![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_1.JPG' }})
@@ -74,6 +93,9 @@ There is a [sweathouse](https://field-monuments.galwaycommunityheritage.org/cont
 ![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_3.JPG' }})
 
 ## [Donnellan's House (16)](#donnellans-house-16)
+Coordinates: 53.00563, -8.49595  
+Irish Grid Reference: R 66760 95078
+
 ![Donnellan's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/loughatorick_south_16_donnellan_1.JPG' }})
 ![Donnellan's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/loughatorick_south_16_donnellan_2.JPG' }})
 ![Donnellan's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/loughatorick_south_16_donnellan_3.JPG' }})
