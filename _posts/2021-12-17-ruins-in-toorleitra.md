@@ -20,6 +20,9 @@ comments: true
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
 ## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
+**Coordinates:** 53.05567, -8.47107  
+**Irish Grid Reference:** M 68467 00635
+
 ![Thornton's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_25inch_map.png' }})
 
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_1.JPG' }})
@@ -35,6 +38,9 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
 
 ## [Thornton's/McMahon's House (12)](#thorntons-house-12)
+**Coordinates:** 53.05325, -8.46782  
+**Irish Grid Reference:** M 68683 00364
+
 ![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
 
 ![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_1.JPG' }})
@@ -54,6 +60,9 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465763/)
 
 ## [Hammel's House (20)](#hammels-house-20)
+**Coordinates:** 53.03594, -8.48908  
+**Irish Grid Reference:** R 67244 98447
+
 ![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_1.JPG' }})
 ![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_2.JPG' }})
 ![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_3.JPG' }})
@@ -69,6 +78,9 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465769/)
 
 ## [Flanagan's House (22)](#flanagans-house-22)
+**Coordinates:** 53.03799, -8.48766  
+**Irish Grid Reference:** R 67341 98675
+
 ![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_1.JPG' }})
 ![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_2.JPG' }})
 ![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_3.JPG' }})
@@ -81,6 +93,9 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465768/)
 
 ## [Donohoe's House (23)](donohoes-house-23)
+**Coordinates:** 53.04319, -8.48349   
+**Irish Grid Reference:** R 67624 99251
+
 ![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_1.JPG' }})
 ![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_2.JPG' }})
 ![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_3.JPG' }})
@@ -97,6 +112,9 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388801/)  
 
 ## [Halloran's House (24)](#hallorans-house-24)
+**Coordinates:** 53.03911, -8.48701  
+**Irish Grid Reference:** R 67385 98799
+
 ![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_1.JPG' }})
 ![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_2.JPG' }})
 ![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_3.JPG' }})
@@ -113,6 +131,9 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465761/)
 
 ## [McBride's House (25A)](#mcbrides-house-25a)
+**Coordinates:** 53.03739, -8.48289  
+**Irish Grid Reference:** R 67660 98606
+
 ![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_1.JPG' }})
 ![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_2.JPG' }})
 ![McBride's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mcbrides_house/mcbrides_house_toorleitra_3.JPG' }})
