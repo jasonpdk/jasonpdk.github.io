@@ -7,6 +7,11 @@ comments: true
 
 [Laggoo](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/laggoo/) is a townland in the Electoral Division of Marblehill, the parish of Ballinakill, the Barony of Leitrim, and the County Galway. There are several ruins in the townland.
 
+**Houses**  
+[Moran's House (1A)](#morans-house-1a)  
+[Tuohy's House (8A)](#tuohys-house-8a)  
+[Hooban's House (4)](#hoobans-house-4)  
+
 ![Lagoo Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/laggoo/laggoo_griffith_valuation_map.png' }})
 
 ## [Moran's House (1A)](#morans-house-1a)
