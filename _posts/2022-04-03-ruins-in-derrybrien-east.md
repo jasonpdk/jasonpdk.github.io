@@ -37,7 +37,7 @@ This is a large complex of ruins, with some interesting features.
 ![House Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/house_1/7.JPG' }})
 
 #### House 2
-This is either a second house of a very well built shed.
+This is either a second house or a very well built shed.
 
 ![House Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/house_2/1.JPG' }})
 ![House Derrybrien East]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/1/house_2/2.JPG' }})
