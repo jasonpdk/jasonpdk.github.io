@@ -11,7 +11,7 @@ comments: true
 
 **Houses**  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
-[Fardy Moran's House (7)](#fardy-morans-house-7)  
+[Moran's House (7)](#morans-house-7)  
 [Thornton's House (12)](#thorntons-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
@@ -38,7 +38,7 @@ comments: true
 ### Census
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
 
-## [Fardy Moran's House (7)](#fardy-morans-house-7)
+## [Moran's House (7)](#morans-house-7)
 **Coordinates:** 53.04575, -8.4717  
 **Irish Grid Reference:** R 68417 99531
 
