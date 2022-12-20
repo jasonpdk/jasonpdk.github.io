@@ -12,7 +12,7 @@ comments: true
 **Houses**  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 [Fardy Moran's House (7)](#fardy-morans-house-7)  
-[Thornton's/McMahon's House (12)](#thorntons-house-12)  
+[Thornton's House (12)](#thorntons-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
 [Donohoe's House (23)](donohoes-house-23)  
@@ -65,7 +65,7 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)
 
-## [Thornton's/McMahon's House (12)](#thorntons-house-12)
+## [Thornton's House (12)](#thorntons-house-12)
 **Coordinates:** 53.05325, -8.46782  
 **Irish Grid Reference:** M 68683 00364
 
@@ -82,10 +82,6 @@ comments: true
 
 ### Griffith Valuation
 ![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
-
-### Census
-[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388807/)  
-[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465763/)
 
 ## [Hammel's House (20)](#hammels-house-20)
 **Coordinates:** 53.03594, -8.48908  
