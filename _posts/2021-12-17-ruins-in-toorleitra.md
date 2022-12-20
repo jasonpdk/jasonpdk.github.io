@@ -62,8 +62,8 @@ comments: true
 ![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_7.JPG' }})
 
 ### Census
-[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)
-[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)  
 
 ## [Thornton's/McMahon's House (12)](#thorntons-house-12)
 **Coordinates:** 53.05325, -8.46782  
