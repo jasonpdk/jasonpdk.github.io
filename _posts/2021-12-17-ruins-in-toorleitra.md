@@ -11,6 +11,7 @@ comments: true
 
 **Houses**  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
+[Fardy Moran's House (7)](#fardy-morans-house)  
 [Thornton's/McMahon's House (12)](#thorntons-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
@@ -36,6 +37,33 @@ comments: true
 
 ### Census
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
+
+## [Fardy Moran's House (7)](#fardy-morans-house)
+**Coordinates:** 53.04575, -8.4717  
+**Irish Grid Reference:** R 68417 99531
+
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_1.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_2.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_3.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_4.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_5.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_6.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_7.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_8.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_9.JPG' }})
+
+### Sheds
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_1.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_2.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_3.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_4.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_5.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_6.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_7.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)
 
 ## [Thornton's/McMahon's House (12)](#thorntons-house-12)
 **Coordinates:** 53.05325, -8.46782  
