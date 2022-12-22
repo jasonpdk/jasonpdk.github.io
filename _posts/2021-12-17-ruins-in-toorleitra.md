@@ -83,6 +83,27 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)
 
+## [Mullen's House (12)](#mullens-house-12)
+**Coordinates:** 53.04461, -8.46066  
+**Irish Grid Reference:** R 69157 99399
+
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_1.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_2.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_3.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_4.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_5.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_6.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_7.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_8.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_9.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_10.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_11.JPG' }})
+![Mullen's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/mullens_house/mullen_toorleitra_12.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388816/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465772/)
+
 ## [Hammel's House (20)](#hammels-house-20)
 **Coordinates:** 53.03594, -8.48908  
 **Irish Grid Reference:** R 67244 98447
