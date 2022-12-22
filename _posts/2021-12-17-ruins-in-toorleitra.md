@@ -151,12 +151,14 @@ comments: true
 **Coordinates:** 53.03799, -8.48766  
 **Irish Grid Reference:** R 67341 98675
 
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_1.JPG' }})
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_2.JPG' }})
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_3.JPG' }})
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_4.JPG' }})
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_5.JPG' }})
-![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/flanagans_house_toorleitra_6.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_1.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_2.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_3.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_4.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_5.JPG' }})
+![Flanagan's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_6.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/flanagans_house/toorleitra_22_flanagan_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388799/)  
