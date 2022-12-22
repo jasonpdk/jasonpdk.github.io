@@ -25,7 +25,7 @@ There are the remains of a very old house on the south eastern end. There is a s
 ![Lough Atorick Island House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/house/loughatorick_island_house_10.JPG' }})
 
 Here's a little video of a walk around the island.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yoUzf343bcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yoUzf343bcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Maps
 ![Lough Atorick Island Aerial Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/maps/loughatorick_aerial.png' }})
@@ -36,7 +36,7 @@ Here's a little video of a walk around the island.
 The 6" map has a symbol for a triangulation station on the island but I haven't found any trace of it.
 ![Lough Atorick Island 6" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/maps/loughatorick_island_6inch.png' }})
 
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.020636,-8.554596
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.020636,-8.554596
 &amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links

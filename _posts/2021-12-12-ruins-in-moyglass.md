@@ -27,7 +27,7 @@ comments: true
 ![Hayes' Moyglass Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/hayes_house/records/griffith_valuation/hayes_moyglass_griffith_valuation.png' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1bR75ani1RryjVKXgw0gCQNonHHbb3iEd&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1bR75ani1RryjVKXgw0gCQNonHHbb3iEd&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.webworld.org/place/46090)  

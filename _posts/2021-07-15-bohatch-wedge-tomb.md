@@ -17,7 +17,7 @@ This wedge tomb is in the townland of Bohateh North (Bohatch) at a height of 262
 A [story from the School's Collection](https://www.duchas.ie/en/cbes/5177613/5173211) refers to a Cromlech in Bohatch called Gráinne's Rock possibly meaning this one.
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=52.965612,-8.480725&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=52.965612,-8.480725&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [Bohatch (Bohateh) Monument - County Clare Heritage Office](https://heritage.clareheritage.org/new-contributions/bohatch-bohateh-monument)  

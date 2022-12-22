@@ -26,7 +26,7 @@ Captain Mauswell was the manager of Currakyle National School but he always appo
 “[The Schools’ Collection, Volume 0592, Page 0331](https://www.duchas.ie/en/cbes/5177630/5174381/5201279)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=52.981064,-8.566047&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=52.981064,-8.566047&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [The School's Collection - Currakyle, Feakle](https://www.duchas.ie/en/cbes/5177630)

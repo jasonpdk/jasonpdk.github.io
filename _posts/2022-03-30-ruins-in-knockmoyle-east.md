@@ -30,7 +30,7 @@ Martin E. Tuohy was born in this house in 1879 and emigrated to America in 1896.
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Knockmoyle_East/465838/)
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1zZgeUurBrMPXMLprCNnugsEWSDmaXiKn&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1zZgeUurBrMPXMLprCNnugsEWSDmaXiKn&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.webworld.org/place/45961)  

@@ -16,7 +16,7 @@ This is a radial stone cairn in Cartron South near Ballinakill Church. It's situ
 ![Cartron South Radial Cairn]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/cartron_south_radial_cairn/cartron_south_radial_cairn_7.JPG' }})
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.086045,-8.456320&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.086045,-8.456320&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 Note that this monument is on private land and permission must be received from the land owner to visit it.
 

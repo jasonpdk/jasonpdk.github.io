@@ -45,7 +45,7 @@ Patrick Mitchell is recorded as living in Derrybrien North 4 but I can't say for
 ![Derrybrien North 4 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/derrybrien_north_4_griffith.png' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1vKjn6Gp-F3fnhfm-WRvhOewxFUeimMk&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1vKjn6Gp-F3fnhfm-WRvhOewxFUeimMk&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.webworld.org/place/24934)  

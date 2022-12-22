@@ -66,7 +66,7 @@ The Ice House was used as cold storage in a time before electric refrigeration. 
 ![Anomalous Stone Group]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/marblehill/monuments/anomalous_stone_group_GA125-125----/2.jpg' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TZtSRkC0EoefkaJHkwtc2_Rt4d4J6hNM" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TZtSRkC0EoefkaJHkwtc2_Rt4d4J6hNM" width="100%" height="480"></iframe>
 
 # Links
 [Stone Monuments in the Ballinakill District - Michael MacMahon](https://www.jstor.org/stable/25535504)  

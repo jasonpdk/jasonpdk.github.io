@@ -25,7 +25,7 @@ There are some brilliant views of Lough Derg, Moyglass Lake, and around the Slia
 ![Moyglass Lake and Lough Derg]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/the_earls_chair/moyglass_lake_lough_derg.jpg' }})
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.098740,-8.574944&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.098740,-8.574944&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [Caher na Earle (The Earl's Chair) - James Charles Roy 2000](https://www.jstor.org/stable/25550230)  

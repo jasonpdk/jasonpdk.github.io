@@ -66,7 +66,7 @@ This house isn't much more than a pile of stones now, the forestry isn't doing t
 ![Glennaheltia House 7]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/coppanagh/glennaheltia/house_7/IMG_7016.JPG' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1OwAW5yXUG1Blhe50Oa2QGaPmqpV9k6A_" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1OwAW5yXUG1Blhe50Oa2QGaPmqpV9k6A_" width="100%" height="480"></iframe>
 
 # Links
 [Glennaheltia - O'Donovan's Field Name Books](http://places.webworld.org/place/25189)

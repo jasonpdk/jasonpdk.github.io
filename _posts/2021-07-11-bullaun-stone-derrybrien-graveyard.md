@@ -46,7 +46,7 @@ Eye problems are the most common cure associated with the stone but there's also
 “[The Schools’ Collection, Volume 0050, Page 0031](https://www.duchas.ie/en/cbes/4583307/4578269/4587354)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.064809,-8.603905&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.064809,-8.603905&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [Local History Video No. 5; Derrybrien and Crann na h-Ola. - Martin Fahy](https://www.youtube.com/watch?v=IEH7TMHhxHg)  

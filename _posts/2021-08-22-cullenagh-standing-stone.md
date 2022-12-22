@@ -20,7 +20,7 @@ The stone is 1.5m high and is in the junction of two walls. The [Historic Enviro
 ![Cullenagh Standing Stone]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/cullenagh_standing_stone/IMG_3914.JPG' }})
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.102298,-8.525609&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.102298,-8.525609&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [Cullenagh - O'Donovan's Field Name Books](http://places.galwaylibrary.ie/place/45705)  

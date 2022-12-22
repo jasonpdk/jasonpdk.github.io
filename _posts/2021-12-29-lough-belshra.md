@@ -65,4 +65,4 @@ The lake is about 2.3km from this house.
 ![Finnegan's House Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_belshra/lough_belshra_finnegans_house_map.jpg' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1Xbc0CJU3E2wq9PhQ8TxZiINGPK0ffFMs&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Xbc0CJU3E2wq9PhQ8TxZiINGPK0ffFMs&ehbc=2E312F" width="100%" height="480"></iframe>

@@ -78,7 +78,7 @@ There is a possible sweathouse attached to the front of the shed.
 ![House Derrybrien East 36]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/36/3/5.JPG' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1eVrrzxT0kD0K0aOzwzsqG_K84XQ2UghC&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1eVrrzxT0kD0K0aOzwzsqG_K84XQ2UghC&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.webworld.org/place/24929)  

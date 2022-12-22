@@ -28,4 +28,4 @@ The name Loughalee possibly translates as *Loch an [Lao](https://www.teanglann.i
 “[The Schools’ Collection, Volume 0051, Page 0128](https://www.duchas.ie/en/cbes/4583315/4578864)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.066302,-8.557442&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.066302,-8.557442&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>

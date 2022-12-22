@@ -96,7 +96,7 @@ Irish Grid Reference: R497788
 Height: 93m  
 
 # Map
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-05jE5NMe636nqUbBJe_7eAfFR5rz8A1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-05jE5NMe636nqUbBJe_7eAfFR5rz8A1" width="100%" height="480"></iframe>
 
 # Links
 [Trig Pointing Ireland - About](http://www.trigpointing-ireland.org.uk/about.php)

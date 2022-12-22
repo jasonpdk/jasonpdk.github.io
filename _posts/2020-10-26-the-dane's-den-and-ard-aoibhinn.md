@@ -39,7 +39,7 @@ We could even see the refugee monks' home, Holy Island.
 ![View of Holy Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/the_danes_den_and_ard_aoibhinn/holy-island.jpg' }})
 
 # Map
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KsP_RmeX96SqFgX2Q22IjPtz1VEndNBv" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KsP_RmeX96SqFgX2Q22IjPtz1VEndNBv" width="100%" height="480"></iframe>
 
 # Links
 [Cave Notes Co. Clare and Co. Galway, Ireland, 2015 - A. Boycott and P.C. Cronin](http://www.ubss.org.uk/resources/proceedings/vol26/UBSS_Proc_26_3_239-248.pdf)  

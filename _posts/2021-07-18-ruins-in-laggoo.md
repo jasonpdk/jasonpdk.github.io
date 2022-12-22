@@ -64,7 +64,7 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Marblehill/Laggoo/465873/)
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1JXgBtRnYhTCVQC4C9Gy9FTD1Q0l_wi5k" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1JXgBtRnYhTCVQC4C9Gy9FTD1Q0l_wi5k" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.webworld.org/place/46071)  

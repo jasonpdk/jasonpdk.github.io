@@ -44,7 +44,7 @@ The children that was going to these schools were no good because they were neve
 “[The Schools’ Collection, Volume 0059, Page 0348](https://www.duchas.ie/en/cbes/4583349/4581911/4606136)” by Dúchas © National Folklore Collection, UCD is licensed under CC BY-NC 4.0.
 
 # Map
-<iframe width="100%" width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.130467,-8.604645&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
+<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=53.130467,-8.604645&amp;key=AIzaSyBVNC6dbEIPRjV2os7cRJfSaEh7WLjx9ZQ&maptype=satellite"></iframe>
 
 # Links
 [The School's Collection - Sonnagh (cailíní agus buachaillí)](https://www.duchas.ie/en/cbes/4583349/)
