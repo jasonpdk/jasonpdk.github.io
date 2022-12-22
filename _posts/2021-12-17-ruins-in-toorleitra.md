@@ -83,7 +83,7 @@ comments: true
 ![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_6.JPG' }})
 ![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_7.JPG' }})
 
-[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_highres.zip)
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
@@ -93,14 +93,16 @@ comments: true
 **Coordinates:** 53.047919, -8.459295  
 **Irish Grid Reference:** R 69250 99767
 
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_1.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_2.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_3.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_4.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_5.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_6.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_7.JPG' }})
-![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/lawless_toorleitra_8.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_1.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_2.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_3.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_4.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_5.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_6.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_7.JPG' }})
+![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_8.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_highres.zip)
 
 ## [Mullen's House (12)](#mullens-house-12)
 **Coordinates:** 53.04461, -8.46066  
