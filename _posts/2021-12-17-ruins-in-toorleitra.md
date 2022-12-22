@@ -11,8 +11,8 @@ comments: true
 
 **Houses**  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
+[Thornton's House (4)](#thorntons-house-4)  
 [Moran's House (7)](#morans-house-7)  
-[Thornton's House (12)](#thorntons-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
 [Donohoe's House (23)](donohoes-house-23)  
@@ -37,6 +37,24 @@ comments: true
 
 ### Census
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
+
+## [Thornton's House (4)](#thorntons-house-4)
+**Coordinates:** 53.05325, -8.46782  
+**Irish Grid Reference:** M 68683 00364
+
+![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
+
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_1.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_2.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_3.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_4.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_5.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_6.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_7.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_8.JPG' }})
+
+### Griffith Valuation
+![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
 
 ## [Moran's House (7)](#morans-house-7)
 **Coordinates:** 53.04575, -8.4717  
@@ -64,24 +82,6 @@ comments: true
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465771/)
-
-## [Thornton's House (12)](#thorntons-house-12)
-**Coordinates:** 53.05325, -8.46782  
-**Irish Grid Reference:** M 68683 00364
-
-![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
-
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_1.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_2.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_3.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_4.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_5.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_6.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_7.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_8.JPG' }})
-
-### Griffith Valuation
-![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
 
 ## [Hammel's House (20)](#hammels-house-20)
 **Coordinates:** 53.03594, -8.48908  
