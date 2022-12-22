@@ -35,6 +35,8 @@ comments: true
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_7.JPG' }})
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_8.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_highres.zip)
+
 ### Census
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
 
