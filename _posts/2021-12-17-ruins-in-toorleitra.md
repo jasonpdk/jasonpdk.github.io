@@ -189,16 +189,18 @@ comments: true
 **Coordinates:** 53.03911, -8.48701  
 **Irish Grid Reference:** R 67385 98799
 
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_1.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_2.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_3.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_4.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_5.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_6.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_7.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_8.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_9.JPG' }})
-![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/hallorans_house_toorleitra_10.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_1.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_2.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_3.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_4.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_5.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_6.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_7.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_8.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_9.JPG' }})
+![Halloran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_10.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hallorans_house/toorleitra_24_halloran_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388800/)  
