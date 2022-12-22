@@ -9,6 +9,10 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**Houses**  
+[Unknown 1 (4)](#unknown-1-4)  
+[Unknown 2 (4)](#unknown-2-4)  
+
 ![Derrybrien North Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/derrybrien_north_griffith_valuation_map.png' }})
 
 ## [Derrybrien North 4](#derrybrien-north-4)

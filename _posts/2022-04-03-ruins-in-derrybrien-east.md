@@ -9,7 +9,7 @@ comments: true
 
 *This post is a Work in Progress.*
 
-**Houses**
+**Houses**  
 [Michael Gormley (34)](#michael-gormley-34)  
 [Unknown 1 (36)](#unknown-1-36)  
 [Unknown 2 (36)](#unknown-2-36)  
