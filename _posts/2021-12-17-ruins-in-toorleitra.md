@@ -46,14 +46,16 @@ comments: true
 
 ![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
 
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_1.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_2.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_3.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_4.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_5.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_6.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_7.JPG' }})
-![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_8.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_1.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_2.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_3.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_4.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_5.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_6.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_7.JPG' }})
+![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_8.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_highres.zip)
 
 ### Griffith Valuation
 ![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
