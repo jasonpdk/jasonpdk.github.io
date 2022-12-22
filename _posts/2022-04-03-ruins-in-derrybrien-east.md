@@ -9,6 +9,12 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**Houses**
+[Michael Gormley (34)](#michael-gormley-34)  
+[Unknown 1 (36)](#unknown-1-36)  
+[Unknown 2 (36)](#unknown-2-36)  
+[Unknown 3 (36)](#unknown-3-36)  
+
 ![Derrybrien East Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_east/derrybrien_east_griffith_map.png' }})
 
 ## [Michael Gormley (34)](#michael-gormley-34)
