@@ -131,15 +131,17 @@ comments: true
 **Coordinates:** 53.03594, -8.48908  
 **Irish Grid Reference:** R 67244 98447
 
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_1.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_2.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_3.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_4.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_5.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_6.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_7.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_8.JPG' }})
-![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/hammels_house_toorleitra_9.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_1.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_2.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_3.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_4.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_5.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_6.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_7.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_8.JPG' }})
+![Hammel's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_9.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/hammels_house/toorleitra_20_hammel_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388797/)  
