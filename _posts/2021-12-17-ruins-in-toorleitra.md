@@ -228,7 +228,7 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465760/)
 
 # Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1HGwrQ_nE5YN1iq0qck-fxRB95GDj7PJ9&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1HGwrQ_nE5YN1iq0qck-fxRB95GDj7PJ9&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # Links
 [O'Donovan's Field Books](http://places.galwaylibrary.ie/place/46239)  
