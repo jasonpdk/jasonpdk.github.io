@@ -64,24 +64,26 @@ comments: true
 **Coordinates:** 53.04575, -8.4717  
 **Irish Grid Reference:** R 68417 99531
 
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_1.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_2.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_3.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_4.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_5.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_6.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_7.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_8.JPG' }})
-![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/moran_toorleitra_9.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_1.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_2.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_3.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_4.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_5.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_6.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_7.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_8.JPG' }})
+![Fardy Moran's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/toorleitra_7_moran_9.JPG' }})
 
 ### Sheds
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_1.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_2.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_3.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_4.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_5.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_6.JPG' }})
-![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/moran_toorleitra_sheds_7.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_1.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_2.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_3.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_4.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_5.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_6.JPG' }})
+![Fardy Moran's Sheds Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_sheds_7.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/fardy_morans_house/sheds/toorleitra_7_moran_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388811/)  
