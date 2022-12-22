@@ -168,17 +168,19 @@ comments: true
 **Coordinates:** 53.04319, -8.48349   
 **Irish Grid Reference:** R 67624 99251
 
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_1.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_2.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_3.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_4.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_5.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_6.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_7.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_8.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_9.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_10.JPG' }})
-![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/donohoes_toorleitra_11.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_1.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_2.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_3.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_4.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_5.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_6.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_7.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_8.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_9.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_10.JPG' }})
+![Donohoe's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_11.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/donohoes_house/toorleitra_23_donohoe_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388801/)  
