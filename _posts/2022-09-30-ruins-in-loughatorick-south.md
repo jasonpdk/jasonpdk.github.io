@@ -29,6 +29,8 @@ comments: true
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_4.JPG' }})
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_5.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_highres.zip)
+
 ## [Charles Kennedy's House (3)](#charles-kennedys-house-3)
 **Coordinates:** 53.03416, -8.49681  
 **Irish Grid Reference:** R 66724 98253
@@ -43,6 +45,8 @@ comments: true
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_8.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_9.JPG' }})
 ![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_10.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_highres.zip)
 
 ## [Geraghty's House (4)](#geraghtys-house-4)
 **Coordinates:** 53.03034, -8.52188  
@@ -62,6 +66,8 @@ This is an interesting ruin because a galvanised roof was put over the original 
 ![Geraghty's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/4_geraghty/sheds/loughatorick_south_4_geraghty_sheds_1.JPG' }})
 ![Geraghty's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/4_geraghty/sheds/loughatorick_south_4_geraghty_sheds_2.JPG' }})
 ![Geraghty's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/4_geraghty/sheds/loughatorick_south_4_geraghty_sheds_3.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/4_geraghty/loughatorick_south_4_geraghty_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
@@ -93,6 +99,8 @@ There is a [sweathouse](https://field-monuments.galwaycommunityheritage.org/cont
 ![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_hayes_owens_sweathouse_2.JPG' }})
 ![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_hayes_owens_sweathouse_3.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_highres.zip)
+
 ## [Donnellan's House (16)](#donnellans-house-16)
 **Coordinates:** 53.00563, -8.49595  
 **Irish Grid Reference:** R 66760 95078
@@ -112,6 +120,8 @@ There is a lovely example of a corn kiln about 60 metres to the north of this ho
 ![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_donnellan_corn_kiln_1.JPG' }})
 ![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_donnellan_corn_kiln_2.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/loughatorick_south_16_donnelan_highres.zip)
+
 ## [Power's House (17)](#powers-house-17)
 **Coordinates:** 53.024563, -8.5286515  
 **Irish Grid Reference:** R 64581 97200
@@ -123,6 +133,8 @@ There is a lovely example of a corn kiln about 60 metres to the north of this ho
 ![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_5.JPG' }})
 ![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_6.JPG' }})
 ![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_7.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_highres.zip)
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=155SOC3lRUi946b4lzrsik9BKeEoHkuU&ehbc=2E312F" width="100%" height="480"></iframe>
