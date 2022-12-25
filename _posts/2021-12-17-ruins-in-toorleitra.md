@@ -15,7 +15,7 @@ comments: true
 [Mullen's House (12)](#mullens-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
-[Donohoe's House (23)](donohoes-house-23)  
+[Donohoe's House (23)](#donohoes-house-23)  
 [McBride's House (25A)](#mcbrides-house-25a)  
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
@@ -164,7 +164,7 @@ comments: true
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388799/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465768/)
 
-## [Donohoe's House (23)](donohoes-house-23)
+## [Donohoe's House (23)](#donohoes-house-23)
 **Coordinates:** 53.04319, -8.48349   
 **Irish Grid Reference:** R 67624 99251
 
