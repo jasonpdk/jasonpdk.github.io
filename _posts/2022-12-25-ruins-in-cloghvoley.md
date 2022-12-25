@@ -23,6 +23,8 @@ comments: true
 ![Unknown 5 Cloghvoley]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/5_unknown/cloghvoley_5_unknown_6.JPG' }})
 ![Unknown 5 Cloghvoley]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/5_unknown/cloghvoley_5_unknown_7.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/5_unknown/cloghvoley_5_unknown_highres.zip)
+
 ## [Silke's House (7)](#silkes-house-7)
 **Coordinates:** 53.086551, -8.4962719  
 **Irish Grid Reference:** M 66801 04082
@@ -35,6 +37,8 @@ comments: true
 ![Silkes House Cloghvoley]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/7_silke/cloghvoley_7_silke_6.JPG' }})
 ![Silkes House Cloghvoley]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/7_silke/cloghvoley_7_silke_7.JPG' }})
 ![Silkes House Cloghvoley]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/7_silke/cloghvoley_7_silke_8.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/7_silke/cloghvoley_7_silke_highres.zip)
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1SSGRLOdea2GDDO4JViaMvEbb2oHj4rM&ehbc=2E312F" width="100%" height="480"></iframe>
