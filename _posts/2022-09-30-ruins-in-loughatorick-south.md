@@ -113,8 +113,8 @@ There is a lovely example of a corn kiln about 60 metres to the north of this ho
 ![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_donnellan_corn_kiln_2.JPG' }})
 
 ## [Power's House (17)](#powers-house-17)
-**Coordinates:** 53.00691, -8.50866  
-**Irish Grid Reference:** R 65908 95226
+**Coordinates:** 53.024563, -8.5286515  
+**Irish Grid Reference:** R 64581 97200
 
 ![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_1.JPG' }})
 ![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_2.JPG' }})
