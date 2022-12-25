@@ -14,6 +14,7 @@ comments: true
 [Lawless' House (11)](#lawless-house-11)  
 [Lawless' Newer House (11)](#lawless-newer-house-11)  
 [Mullen's House (12)](#mullens-house-12)  
+[Unknown (13)](#unknown-13)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
 [Donohoe's House (23)](#donohoes-house-23)  
@@ -109,6 +110,8 @@ comments: true
 **Coordinates:** 53.047862, -8.462605   
 **Irish Grid Reference:** R 69028 99762
 
+This house was built sometime in the 1950's.
+
 ![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_1.JPG' }})
 ![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_2.JPG' }})
 ![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_3.JPG' }})
@@ -141,6 +144,24 @@ comments: true
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388816/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465772/)
+
+## [Unknown (13)](#unknown-13)
+**Coordinates:** 53.053950, -8.4888174   
+**Irish Grid Reference:** M 67275 00451
+
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_1.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_2.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_3.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_4.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_5.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_6.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_7.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_8.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_9.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_10.JPG' }})
+![Unknown 13 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_11.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/unknown_13/toorleitra_13_unknown_highres.zip)
 
 ## [Hammel's House (20)](#hammels-house-20)
 **Coordinates:** 53.03594, -8.48908  
