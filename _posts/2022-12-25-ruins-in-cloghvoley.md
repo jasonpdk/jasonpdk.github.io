@@ -5,7 +5,7 @@ tags: [Sliabh Aughty, Historical Sites, Local History, Ruins]
 comments: true
 ---
 
-[Cloghvoley](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/cloghvoley/) (pronounced Cloghoola) is a townland in the Electoral Division of Marblehill, the parish of Ballinakill, the Barony of Leitrim, and the County Galway.
+[Cloghvoley](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/cloghvoley/) (or Cloghoola) is a townland in the Electoral Division of Marblehill, the parish of Ballinakill, the Barony of Leitrim, and the County Galway.
 
 *This post is a Work in Progress.*
 
