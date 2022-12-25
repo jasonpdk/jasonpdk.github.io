@@ -12,6 +12,7 @@ comments: true
 [Thornton's House (4)](#thorntons-house-4)  
 [Moran's House (7)](#morans-house-7)  
 [Lawless' House (11)](#lawless-house-11)  
+[Lawless' Newer House (11)](#lawless-newer-house-11)  
 [Mullen's House (12)](#mullens-house-12)  
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
@@ -103,6 +104,20 @@ comments: true
 ![Lawless House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_8.JPG' }})
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_house/toorleitra_11_lawless_highres.zip)
+
+## [Lawless' Newer House (11)](#lawless-newer-house-11)
+**Coordinates:** 53.047862, -8.462605   
+**Irish Grid Reference:** R 69028 99762
+
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_1.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_2.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_3.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_4.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_5.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_6.JPG' }})
+![Lawless Newer House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_7.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/lawless_newer_house/toorleitra_11_lawless_newer_highres.zip)
 
 ## [Mullen's House (12)](#mullens-house-12)
 **Coordinates:** 53.04461, -8.46066  
