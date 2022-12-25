@@ -15,6 +15,7 @@ comments: true
 [Charles Kennedy's House (3)](#charles-kennedys-house-3)  
 [Hayes'/Owen's Houses (15)](#hayesowens-houses-15)  
 [Donnellan's House (16)](#donnellans-house-16)  
+[Power's House (17)](#powers-house-17)  
 
 ![Loughatorick South Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/loughatorick_south_griffith_map.png' }})
 
@@ -27,6 +28,21 @@ comments: true
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_3.JPG' }})
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_4.JPG' }})
 ![Mooney's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/1_mooney/loughatorick_south_1_mooney_5.JPG' }})
+
+## [Charles Kennedy's House (3)](#charles-kennedys-house-3)
+**Coordinates:** 53.03416, -8.49681  
+**Irish Grid Reference:** R 66724 98253
+
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_1.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_2.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_3.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_4.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_5.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_6.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_7.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_8.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_9.JPG' }})
+![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/loughatorick_south_3_charles_kennedy_10.JPG' }})
 
 ## [Geraghty's House (4)](#geraghtys-house-4)
 **Coordinates:** 53.03034, -8.52188  
@@ -51,21 +67,6 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
-## [Charles Kennedy's House (3)](#charles-kennedys-house-3)
-**Coordinates:** 53.03416, -8.49681  
-**Irish Grid Reference:** R 66724 98253
-
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_1.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_2.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_3.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_4.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_5.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_6.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_7.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_8.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_9.JPG' }})
-![Charles Kennedys Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/3_charles_kennedy/charles_kennedys_house_loughatorick_south_10.JPG' }})
-
 # [Gorrey](#gorrey)
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
@@ -75,22 +76,22 @@ The area to the southern end of Loughatorick South on the slope of Scalp mountai
 
 This is a large complex of well built buildings, there were two houses and several other buildings. William Hayes and Bridget Owens are recorded as living here on the Griffith Valuation.
 
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_1.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_2.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_3.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_4.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_5.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_6.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_7.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_8.JPG' }})
-![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_9.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_1.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_2.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_3.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_4.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_5.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_6.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_7.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_8.JPG' }})
+![Hayes' Loughatorick South 15]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/loughatorick_south_15_hayes_owens_9.JPG' }})
 
 ### Sweathouse
 There is a [sweathouse](https://field-monuments.galwaycommunityheritage.org/content/archaeology/field-monuments/sweat-houses-galway) built into a low bank on the south-east side of the ruins.
 
-![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_1.JPG' }})
-![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_2.JPG' }})
-![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_sweathouse_3.JPG' }})
+![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_hayes_owens_sweathouse_1.JPG' }})
+![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_hayes_owens_sweathouse_2.JPG' }})
+![Loughatorick South 15 Sweathouse]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/15_hayes/sweathouse/loughatorick_south_15_hayes_owens_sweathouse_3.JPG' }})
 
 ## [Donnellan's House (16)](#donnellans-house-16)
 **Coordinates:** 53.00563, -8.49595  
@@ -108,8 +109,20 @@ There is a [sweathouse](https://field-monuments.galwaycommunityheritage.org/cont
 ### Corn Kiln
 There is a lovely example of a corn kiln about 60 metres to the north of this house.
 
-![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_corn_kiln_1.JPG' }})
-![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_corn_kiln_2.JPG' }})
+![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_donnellan_corn_kiln_1.JPG' }})
+![Loughatorick South 16 Corn Kiln]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/16_donnellan/corn_kiln/loughatorick_south_16_donnellan_corn_kiln_2.JPG' }})
+
+## [Power's House (17)](#powers-house-17)
+**Coordinates:** 53.00691, -8.50866  
+**Irish Grid Reference:** R 65908 95226
+
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_1.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_2.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_3.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_4.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_5.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_6.JPG' }})
+![Power's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/17_power/loughatorick_south_17_power_7.JPG' }})
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=155SOC3lRUi946b4lzrsik9BKeEoHkuU&ehbc=2E312F" width="100%" height="480"></iframe>
