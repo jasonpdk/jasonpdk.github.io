@@ -50,6 +50,8 @@ comments: true
 ![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_3.JPG' }})
 ![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_4.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/toorleitra_1_mullery_highres.zip)
+
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388808/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465756/)
