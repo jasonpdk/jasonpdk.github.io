@@ -8,6 +8,7 @@ comments: true
 [Toorleitra](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/toorleitra/) is a townland in the Electoral Division of Loughatorick, the parish of Ballinakill, the Barony of Leitrim, and the County Galway. There are many ruins in the townland.
 
 **Houses**  
+[Mullery's House (1)](#mullerys-house-1)  
 [Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 [Thornton's House (4)](#thorntons-house-4)  
 [Moran's House (7)](#morans-house-7)  
@@ -22,11 +23,40 @@ comments: true
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
+## [Mullery's House (1)](#mullerys-house-1)
+**Coordinates:** 53.05632, -8.46124  
+**Irish Grid Reference:** M 69126 00703
+
+![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_1.JPG' }})
+![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_2.JPG' }})
+![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_3.JPG' }})
+![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_4.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_1.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_2.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_3.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_4.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_5.JPG' }})
+![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_6.JPG' }})
+
+### Sheds
+![Mullery's Shed 1 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 1/toorleitra_1_mullery_shed1_1.JPG' }})
+![Mullery's Shed 1 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 1/toorleitra_1_mullery_shed1_2.JPG' }})
+![Mullery's Shed 1 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 1/toorleitra_1_mullery_shed1_3.JPG' }})
+![Mullery's Shed 1 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 1/toorleitra_1_mullery_shed1_4.JPG' }})
+![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_1.JPG' }})
+![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_2.JPG' }})
+![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_3.JPG' }})
+![Mullery's Shed 2 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 2/toorleitra_1_mullery_shed2_4.JPG' }})
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388808/)
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465756/)
+
 ## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
 **Coordinates:** 53.05567, -8.47107  
 **Irish Grid Reference:** M 68467 00635
 
-![Thornton's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_25inch_map.png' }})
+![Josie Molloy's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_25inch_map.png' }})
 
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_1.JPG' }})
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_2.JPG' }})
@@ -40,7 +70,7 @@ comments: true
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_highres.zip)
 
 ### Census
-[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/?fbclid=IwAR22PPDdHDL7IQGu_7vktTli5E_JZF5PbyyLWapyebqkqzfRWsBGDyjhmyg)
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465764/)
 
 ## [Thornton's House (4)](#thorntons-house-4)
 **Coordinates:** 53.05325, -8.46782  
