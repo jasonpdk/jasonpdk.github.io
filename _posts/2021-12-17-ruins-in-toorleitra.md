@@ -27,6 +27,7 @@ comments: true
 **Coordinates:** 53.05632, -8.46124  
 **Irish Grid Reference:** M 69126 00703
 
+![Mullery's Path Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/toorleitra_1_mullery_path.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_1.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_2.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_3.JPG' }})
