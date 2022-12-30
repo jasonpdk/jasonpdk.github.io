@@ -27,7 +27,6 @@ comments: true
 **Coordinates:** 53.05632, -8.46124  
 **Irish Grid Reference:** M 69126 00703
 
-![Mullery's Path Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/toorleitra_1_mullery_path.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_1.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_2.JPG' }})
 ![Mullery's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/toorleitra_1_mullery_house_3.JPG' }})
@@ -39,6 +38,7 @@ comments: true
 ![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_4.JPG' }})
 ![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_5.JPG' }})
 ![Mullery's House Inside Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/house/inside/toorleitra_1_mullery_house_inside_6.JPG' }})
+![Mullery's Path Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/toorleitra_1_mullery_path.JPG' }})
 
 ### Sheds
 ![Mullery's Shed 1 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/1_mullery/shed 1/toorleitra_1_mullery_shed1_1.JPG' }})
