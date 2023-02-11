@@ -13,6 +13,7 @@ comments: true
 [Mooney's House (1)](#mooneys-house-1)  
 [Geraghty's House (4)](#geraghtys-house-4)  
 [Charles Kennedy's House (3)](#charles-kennedys-house-3)  
+[Hackett's House (13)](#hacketts-house-13)  
 [Hayes'/Owen's Houses (15)](#hayesowens-houses-15)  
 [Donnellan's House (16)](#donnellans-house-16)  
 [Power's House (17)](#powers-house-17)  
@@ -73,7 +74,7 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
-## [Hackett's House (13)](#donnellans-house-16)
+## [Hackett's House (13)](#hacketts-house-13)
 **Coordinates:** 53.014909, -8.495478  
 **Irish Grid Reference:** R 66799 96110  
 
