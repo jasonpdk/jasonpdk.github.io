@@ -19,6 +19,7 @@ comments: true
 [Hammel's House (20)](#hammels-house-20)  
 [Flanagan's House (22)](#flanagans-house-22)  
 [Donohoe's House (23)](#donohoes-house-23)  
+[Halloran's House (24)](#hallorans-house-24)  
 [McBride's House (25A)](#mcbrides-house-25a)  
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
