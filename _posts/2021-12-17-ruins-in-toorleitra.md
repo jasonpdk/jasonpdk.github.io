@@ -7,7 +7,7 @@ comments: true
 
 [Toorleitra](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/toorleitra/) is a townland in the Electoral Division of Loughatorick, the parish of Ballinakill, the Barony of Leitrim, and the County Galway. There are many ruins in the townland.
 
-**Houses**  
+**[Houses](#mullerys-house-1)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Mullery's House (1)](#mullerys-house-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Thornton's House (4)](#thorntons-house-4)  
