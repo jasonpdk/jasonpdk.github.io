@@ -21,6 +21,7 @@ comments: true
 [Donohoe's House (23)](#donohoes-house-23)  
 [Halloran's House (24)](#hallorans-house-24)  
 [McBride's House (25A)](#mcbrides-house-25a)  
+[Gildea's House (27)](#gildeas-house-27)  
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
@@ -297,6 +298,22 @@ This house was built sometime in the 1950's.
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388796/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465760/)
+
+## [Gildea's House (27)](#gildeas-house-27)  
+**Coordinates:** 53.036344,-8.494896   
+**Irish Grid Reference:** R 66854 98495
+
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_1.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_2.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_3.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_4.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_5.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_highres.zip)
+
+### Census
+[1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388798/)  
+[1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465759/)
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1HGwrQ_nE5YN1iq0qck-fxRB95GDj7PJ9&ehbc=2E312F" width="100%" height="480"></iframe>
