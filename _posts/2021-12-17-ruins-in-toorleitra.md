@@ -8,20 +8,22 @@ comments: true
 [Toorleitra](https://www.townlands.ie/galway/leitrim/ballynakill/marblehill/toorleitra/) is a townland in the Electoral Division of Loughatorick, the parish of Ballinakill, the Barony of Leitrim, and the County Galway. There are many ruins in the townland.
 
 **Houses**  
-[Mullery's House (1)](#mullerys-house-1)  
-[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
-[Thornton's House (4)](#thorntons-house-4)  
-[Moran's House (7)](#morans-house-7)  
-[Lawless' House (11)](#lawless-house-11)  
-[Lawless' Newer House (11)](#lawless-newer-house-11)  
-[Mullen's House (12)](#mullens-house-12)  
-[Unknown (13)](#unknown-13)  
-[Hammel's House (20)](#hammels-house-20)  
-[Flanagan's House (22)](#flanagans-house-22)  
-[Donohoe's House (23)](#donohoes-house-23)  
-[Halloran's House (24)](#hallorans-house-24)  
-[McBride's House (25A)](#mcbrides-house-25a)  
-[Gildea's House (27)](#gildeas-house-27)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Mullery's House (1)](#mullerys-house-1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Thornton's House (4)](#thorntons-house-4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Moran's House (7)](#morans-house-7)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Lawless' House (11)](#lawless-house-11)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Lawless' Newer House (11)](#lawless-newer-house-11)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Mullen's House (12)](#mullens-house-12)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (13)](#unknown-13)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Hammel's House (20)](#hammels-house-20)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Flanagan's House (22)](#flanagans-house-22)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Donohoe's House (23)](#donohoes-house-23)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Halloran's House (24)](#hallorans-house-24)  
+&nbsp;&nbsp;&nbsp;&nbsp;[McBride's House (25A)](#mcbrides-house-25a)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Gildea's House (27)](#gildeas-house-27)  
+**[Maps](#maps)**  
+**[Links](#links)**  
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
 
