@@ -102,6 +102,8 @@ This is an interesting ruin because a galvanised roof was put over the original 
 ![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_5.JPG' }})
 ![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_6.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_highres.zip)
+
 # [Gorrey](#gorrey)
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
