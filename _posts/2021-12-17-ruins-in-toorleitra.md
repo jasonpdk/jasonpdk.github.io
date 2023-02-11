@@ -22,7 +22,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;[Halloran's House (24)](#hallorans-house-24)  
 &nbsp;&nbsp;&nbsp;&nbsp;[McBride's House (25A)](#mcbrides-house-25a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Gildea's House (27)](#gildeas-house-27)  
-**[Maps](#maps)**  
+**[Map](#map)**  
 **[Links](#links)**  
 
 ![Toorleitra Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/toorleitra_griffith_valuation_map.png' }})
