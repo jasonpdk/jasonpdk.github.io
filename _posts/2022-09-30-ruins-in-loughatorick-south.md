@@ -73,6 +73,34 @@ This is an interesting ruin because a galvanised roof was put over the original 
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Loughatorick_South/1388777/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Loughatorick_South/465747/)
 
+## [Hackett's House (13)](#donnellans-house-16)
+**Coordinates:** 53.014909, -8.495478  
+**Irish Grid Reference:** R 66799 96110  
+
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_1.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_2.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_3.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_4.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_5.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_6.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_7.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_8.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_9.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_10.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_11.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_12.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_13.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_14.JPG' }})
+![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_house_15.JPG' }})
+
+### Sheds
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_1.JPG' }})
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_2.JPG' }})
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_3.JPG' }})
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_4.JPG' }})
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_5.JPG' }})
+![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Floughatorick_south%2F13_hackett%2Fhackett_loughatorick_south_13_shed_6.JPG' }})
+
 # [Gorrey](#gorrey)
 The area to the southern end of Loughatorick South on the slope of Scalp mountain is known as Gorrey ([Garraí - Garden](https://www.teanglann.ie/en/fgb/Garra%C3%AD))
 
