@@ -9,6 +9,7 @@ comments: true
 
 **[Houses](#mullerys-house-1)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Mullery's House (1)](#mullerys-house-1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Hayes' House (2B)](#hayes-house-2b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Thornton's House (4)](#thorntons-house-4)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (5)](#unknown-5)  
@@ -60,6 +61,26 @@ comments: true
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388808/)  
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465756/)
+
+## [Hayes' House (2B)](#hayes-house-2b)  
+**Coordinates:** 53.050418,-8.459336  
+**Irish Grid Reference:** M 69126 00703
+
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_1.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_2.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_3.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_4.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_5.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_6.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_7.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_8.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_9.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_10.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_12.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_13.JPG' }})
+![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_14.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_highres.zip)
 
 ## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
 **Coordinates:** 53.05567, -8.47107  
