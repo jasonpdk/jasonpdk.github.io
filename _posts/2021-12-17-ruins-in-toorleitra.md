@@ -119,8 +119,6 @@ comments: true
 **Coordinates:** 53.05325, -8.46782  
 **Irish Grid Reference:** M 68683 00364
 
-![Thorntons's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/thorntons_house_toorleitra_25inch_map.png' }})
-
 ![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_1.JPG' }})
 ![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_2.JPG' }})
 ![Thornton's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/toorleitra_4_thornton_3.JPG' }})
