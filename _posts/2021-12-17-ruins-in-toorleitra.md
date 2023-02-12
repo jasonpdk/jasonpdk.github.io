@@ -11,6 +11,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;[Mullery's House (1)](#mullerys-house-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Thornton's House (4)](#thorntons-house-4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (5)](#unknown-5)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Moran's House (7)](#morans-house-7)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Lawless' House (11)](#lawless-house-11)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Lawless' Newer House (11)](#lawless-newer-house-11)  
@@ -99,6 +100,25 @@ comments: true
 
 ### Griffith Valuation
 ![Thornton's Toorleitra Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/thorntons_house/records/griffith_valuation/thorntons_toorleitra_griffith_valuation.png' }})
+
+## [Unknown (5)](#unknown-5)
+**Coordinates:** 53.052720, -8.472900  
+**Irish Grid Reference:** M 68342 00307
+
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_1.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_2.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_3.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_4.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_5.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_6.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_7.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_8.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_9.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_10.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_11.JPG' }})
+![Unknown 5 Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_12.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/5_unknown/toorleitra_5_unknown_highres.zip)
 
 ## [Moran's House (7)](#morans-house-7)
 **Coordinates:** 53.04575, -8.4717  
@@ -305,13 +325,13 @@ This house was built sometime in the 1950's.
 **Coordinates:** 53.036344,-8.494896   
 **Irish Grid Reference:** R 66854 98495
 
-![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_1.JPG' }})
-![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_2.JPG' }})
-![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_3.JPG' }})
-![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_4.JPG' }})
-![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_5.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_1.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_2.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_3.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_4.JPG' }})
+![Gildea's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_5.JPG' }})
 
-[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img%2Fruins%2Ftoorleitra%2F27_gildea%2Ftoorleitra_27_gildea_highres.zip)
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/27_gildea/toorleitra_27_gildea_highres.zip)
 
 ### Census
 [1901](http://www.census.nationalarchives.ie/pages/1901/Galway/Loughatorick/Toorleitra/1388798/)  
