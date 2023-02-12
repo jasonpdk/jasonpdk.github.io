@@ -11,7 +11,7 @@ comments: true
 
 **[Houses](#unknown-5)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (5)](#unknown-5)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Silke's House (7)](#silkes-house-7)
+&nbsp;&nbsp;&nbsp;&nbsp;[Silke's House (7)](#silkes-house-7)  
 **[Map](#map)**  
 **[Links](#links)** 
 
