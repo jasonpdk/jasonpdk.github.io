@@ -10,6 +10,7 @@ comments: true
 **[Houses](#mullerys-house-1)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Mullery's House (1)](#mullerys-house-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Hayes' House (2B)](#hayes-house-2b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Smith's House (3A)](#smiths-house-3a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Josie Molloy's House (3B)](#josie-molloys-house-3b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Thornton's House (4)](#thorntons-house-4)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (5)](#unknown-5)  
