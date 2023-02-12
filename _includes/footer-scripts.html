@@ -1,3 +1,5 @@
+<script src="node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
+
 {% if layout.common-ext-js %}
   {% for js in layout.common-ext-js %}
     {% include ext-js.html js=js %}
@@ -30,5 +32,3 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
-
-<script src="node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
