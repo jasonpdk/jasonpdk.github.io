@@ -94,7 +94,6 @@ This is an interesting ruin because a galvanised roof was put over the original 
 ![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/13_hackett/hackett_loughatorick_south_13_house_12.JPG' }})
 ![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/13_hackett/hackett_loughatorick_south_13_house_13.JPG' }})
 ![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/13_hackett/hackett_loughatorick_south_13_house_14.JPG' }})
-![Hackett's House Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/13_hackett/hackett_loughatorick_south_13_house_15.JPG' }})
 
 ### Sheds
 ![Hackett's Sheds Loughatorick South]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/13_hackett/hackett_loughatorick_south_13_shed_1.JPG' }})
