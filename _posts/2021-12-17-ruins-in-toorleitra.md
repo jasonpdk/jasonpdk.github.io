@@ -63,8 +63,8 @@ comments: true
 [1911](http://www.census.nationalarchives.ie/pages/1911/Galway/Loughatorick/Toorleitra/465756/)
 
 ## [Hayes' House (2B)](#hayes-house-2b)  
-**Coordinates:** 53.050418,-8.459336  
-**Irish Grid Reference:** M 69126 00703
+**Coordinates:** 53.050418, -8.459336  
+**Irish Grid Reference:** M 69249 00045
 
 ![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_1.JPG' }})
 ![Hayes' House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_2.JPG' }})
@@ -82,11 +82,24 @@ comments: true
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/2b_hayes/toorleitra_2b_hayes_highres.zip)
 
+## [Smith's House (3A)](#smiths-house-3a)
+**Coordinates:** 53.053208, -8.463020  
+**Irish Grid Reference:** M 69004 00357
+
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_1.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_2.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_3.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_4.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_5.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_6.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_7.JPG' }})
+![Smith's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_8.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/3a_smith/toorleitra_3A_smith_highres.zip)
+
 ## [Josie Molloy's House (3B)](#josie-molloys-house-3b)
 **Coordinates:** 53.05567, -8.47107  
 **Irish Grid Reference:** M 68467 00635
-
-![Josie Molloy's House Toorleitra 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/josie_molloys_house_toorleitra_25inch_map.png' }})
 
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_1.JPG' }})
 ![Josie Molloy's House Toorleitra]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/toorleitra/josie_molloys_house/toorleitra_3B_josie_molloy_2.JPG' }})
