@@ -9,14 +9,16 @@ comments: true
 
 *This post is a Work in Progress.*
 
-**Houses**  
-[Mooney's House (1)](#mooneys-house-1)  
-[Geraghty's House (4)](#geraghtys-house-4)  
-[Charles Kennedy's House (3)](#charles-kennedys-house-3)  
-[Hackett's House (13)](#hacketts-house-13)  
-[Hayes'/Owen's Houses (15)](#hayesowens-houses-15)  
-[Donnellan's House (16)](#donnellans-house-16)  
-[Power's House (17)](#powers-house-17)  
+**[Houses](#mooneys-house-1)**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Mooney's House (1)](#mooneys-house-1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Geraghty's House (4)](#geraghtys-house-4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Charles Kennedy's House (3)](#charles-kennedys-house-3)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Hackett's House (13)](#hacketts-house-13)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Hayes'/Owen's Houses (15)](#hayesowens-houses-15)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Donnellan's House (16)](#donnellans-house-16)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Power's House (17)](#powers-house-17)  
+**[Map](#map)**  
+**[Links](#links)** 
 
 ![Loughatorick South Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/loughatorick_south/loughatorick_south_griffith_map.png' }})
 

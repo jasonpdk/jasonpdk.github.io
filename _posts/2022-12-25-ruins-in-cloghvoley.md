@@ -9,6 +9,12 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**[Houses](#unknown-5)**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (5)](#unknown-5)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Silke's House (7)](#silkes-house-7)
+**[Map](#map)**  
+**[Links](#links)** 
+
 ![Cloghvoley Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/cloghvoley/cloghvoley_griffith_map.png' }})
 
 ## [Unknown (5)](#unknown-5)

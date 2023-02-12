@@ -9,6 +9,11 @@ comments: true
 
 *This post is a Work in Progress.*
 
+**[Houses](#patrick-tuohys-house-20c)**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Patrick Tuohy's House (20C)](#patrick-tuohys-house-20c)  
+**[Map](#map)**  
+**[Links](#links)** 
+
 ![Knockmoyle East Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/knockmoyle_east/knockmoyle_east_griffith_map.jpg' }})
 
 ## [Patrick Tuohy's House (20C)](#patrick-tuohys-house-20c)
