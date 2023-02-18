@@ -75,7 +75,7 @@ comments: true
 ![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_15.JPG' }})
 ![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_16.JPG' }})
 
-[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2_unknown/slieveanore_2_unknown_highres.zip)
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_highres.zip)
  
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
