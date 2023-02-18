@@ -10,41 +10,48 @@ comments: true
 *This post is a Work in Progress.*
 
 **[Houses](#unknown-1-4)**  
-&nbsp;&nbsp;&nbsp;&nbsp;[Unknown 1 (4)](#unknown-1-4)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Unknown 2 (4)](#unknown-2-4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Mitchell's House (4)](#mitchells-house-4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (4)](#unknown-4) 
 **[Map](#map)**  
 **[Links](#links)**  
 
 ![Derrybrien North Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/derrybrien_north_griffith_valuation_map.png' }})
 
-## [Derrybrien North 4](#derrybrien-north-4)
-### [Unknown 1 (4)](#unknown-1-4)
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_1.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_2.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_3.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_4.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_5.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_6.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_7.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_8.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_9.JPG' }})
-![Derrybrien North 4 House 1]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/1/derrybrien_north_4_10.JPG' }})
+### [Mitchell's House (4)](#mitchells-house-4)  
+**Coordinates:** 53.086804, -8.585123  
+**Irish Grid Reference:** M 60848 04155
 
-### [Unknown 2 (4)](#unknown-2-4)
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_1.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_2.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_3.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_4.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_5.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_6.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_7.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_8.JPG' }})
-![Derrybrien North 4 House 2]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/2/derrybrien_north_4_9.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_1.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_2.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_3.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_4.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_5.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_6.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_7.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_8.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_9.JPG' }})
+![Derrybrien North 4 Mitchell]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_10.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_highres.zip)
 
 ### Griffith Valuation
-Patrick Mitchell is recorded as living in Derrybrien North 4 but I can't say for sure which house was his.
-
 ![Derrybrien North 4 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/derrybrien_north_4_griffith.png' }})
+
+### [Unknown (4)](#unknown-4)  
+**Coordinates:** 53.086450, -8.586860  
+**Irish Grid Reference:** M 60732 04117
+
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_1.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_2.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_3.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_4.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_5.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_6.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_7.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_8.JPG' }})
+![Derrybrien North 4 Unknown]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_9.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_unknown/derrybrien_north_4_unknown_highres.zip)
 
 # Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1vKjn6Gp-F3fnhfm-WRvhOewxFUeimMk&ehbc=2E312F" width="100%" height="480"></iframe>
