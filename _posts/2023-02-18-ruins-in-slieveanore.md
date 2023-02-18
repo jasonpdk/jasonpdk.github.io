@@ -9,7 +9,7 @@ comments: true
 
 *This post is a Work in Progress.*
 
-**[Houses](#wards-house-16a)**  
+**[Houses](#bradys-house-2a)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Brady's House (2A)](#bradys-house-2a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (2)](#unknown-2)
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
