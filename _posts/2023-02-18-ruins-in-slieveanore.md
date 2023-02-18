@@ -38,8 +38,8 @@ comments: true
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_highres.zip)
 
 ## [Unknown (2)](#unknown-2)
-**Coordinates:** 53.030589, -8.585043   
-**Irish Grid Reference:** R 60803 97900
+**Coordinates:** 53.030989,-8.584182  
+**Irish Grid Reference:** R 60861 97944
 
 ![Unknown 2 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2_unknown/slieveanore_2_unknown_1.JPG' }})
 ![Unknown 2 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2_unknown/slieveanore_2_unknown_2.JPG' }})
