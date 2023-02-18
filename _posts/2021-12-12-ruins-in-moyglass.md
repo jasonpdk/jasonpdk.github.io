@@ -9,12 +9,12 @@ comments: true
 
 *This post is a Work in Progress.*
 
-![Moyglass Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/moyglass_griffith_valuation_map.png' }})
-
 **[Houses](#hayes-house-12)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Hayes' House (12)](#hayes-house-12)  
 **[Map](#map)**  
 **[Links](#links)** 
+
+![Moyglass Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/moyglass_griffith_valuation_map.png' }})
 
 ## [Hayes' House (12)](#hayes-house-12)
 ![Moran's House Laggoo 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/moyglass/hayes_house/hayes_house_moyglass_25inch_map.png' }})
