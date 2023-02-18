@@ -10,11 +10,31 @@ comments: true
 *This post is a Work in Progress.*
 
 **[Houses](#wards-house-16a)**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Brady's House (2A)](#bradys-house-2a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
 **[Map](#map)**  
 **[Links](#links)** 
 
 ![Slieveanore Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/slieveanore_griffith_map.png' }})
+
+## [Brady's House (2A)](#bradys-house-2a)
+**Coordinates:** 53.030589, -8.585043   
+**Irish Grid Reference:** R 60803 97900
+
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_1.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_2.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_3.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_4.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_5.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_6.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_7.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_8.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_9.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_10.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_11.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_12.JPG' }})
+
+[Download high resolution images](![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_1.JPG' }}))
 
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
