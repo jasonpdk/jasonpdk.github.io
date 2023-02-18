@@ -12,6 +12,7 @@ comments: true
 **[Houses](#bradys-house-2a)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Brady's House (2A)](#bradys-house-2a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (2)](#unknown-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Roche's House (4B)](#roches-house-4b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
 **[Map](#map)**  
 **[Links](#links)** 
@@ -53,6 +54,29 @@ comments: true
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2_unknown/slieveanore_2_unknown_highres.zip)
 
+## [Roche's House (4B)](#roches-house-4b)
+**Coordinates:** 53.036601, -8.587581  
+**Irish Grid Reference:** R 60638 98570
+
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_1.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_2.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_3.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_4.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_5.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_6.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_7.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_8.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_9.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_10.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_11.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_12.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_13.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_14.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_15.JPG' }})
+![Roche's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_16.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2_unknown/slieveanore_2_unknown_highres.zip)
+ 
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
 **Irish Grid Reference:** R 61692 98875
