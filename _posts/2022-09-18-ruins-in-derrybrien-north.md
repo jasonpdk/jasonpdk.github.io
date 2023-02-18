@@ -11,7 +11,7 @@ comments: true
 
 **[Houses](#unknown-1-4)**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Mitchell's House (4)](#mitchells-house-4)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (4)](#unknown-4) 
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (4)](#unknown-4)  
 **[Map](#map)**  
 **[Links](#links)**  
 
