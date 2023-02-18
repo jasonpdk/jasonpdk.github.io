@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Feel free to use any images on this website, just put a link to where you got it from.
+Feel free to use any images on this website, just put a link to where you got it from. If I have made any mistakes please let me know!
 
 ## PGP Key
 ```
