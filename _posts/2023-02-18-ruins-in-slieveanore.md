@@ -33,6 +33,7 @@ comments: true
 ![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_10.JPG' }})
 ![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_11.JPG' }})
 ![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_12.JPG' }})
+![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_13.JPG' }})
 
 [Download high resolution images](![Brady's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/2a_brady/slieveanore_2a_brady_1.JPG' }}))
 
