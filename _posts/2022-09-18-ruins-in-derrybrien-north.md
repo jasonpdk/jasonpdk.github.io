@@ -35,7 +35,7 @@ comments: true
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_mitchell_highres.zip)
 
 ### Griffith Valuation
-![Derrybrien North 4 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4/derrybrien_north_4_griffith.png' }})
+![Derrybrien North 4 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_griffith.png' }})
 
 ### [Unknown (4)](#unknown-4)  
 **Coordinates:** 53.086450, -8.586860  
