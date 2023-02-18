@@ -9,7 +9,8 @@ comments: true
 
 *This post is a Work in Progress.*
 
-**[Houses](#unknown-1-4)**  
+**[Houses](#unknown-3)**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (3)](#unknown-3)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Mitchell's House (4)](#mitchells-house-4)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (4)](#unknown-4)  
 **[Map](#map)**  
@@ -17,7 +18,36 @@ comments: true
 
 ![Derrybrien North Griffith Valuation Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/derrybrien_north_griffith_valuation_map.png' }})
 
-### [Mitchell's House (4)](#mitchells-house-4)  
+## [Unknown (3)](#unknown-3)  
+**Coordinates:** 53.095669, -8.560972  
+**Irish Grid Reference:** M 62474 05129
+
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_1.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_2.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_3.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_4.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_5.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_6.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_7.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_8.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_9.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_10.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_11.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_12.JPG' }})
+![Derrybrien North 3]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_13.JPG' }})
+
+### Enclosures
+There are some kind of enclosures beside the house, possibly for small animals.
+
+![Derrybrien North 3 Enclosure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/enclosures/derrybrien_north_3_enclosure_1_1.JPG' }})
+![Derrybrien North 3 Enclosure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/enclosures/derrybrien_north_3_enclosure_1_2.JPG' }})
+![Derrybrien North 3 Enclosure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/enclosures/derrybrien_north_3_enclosure_1_3.JPG' }})
+![Derrybrien North 3 Enclosure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/enclosures/derrybrien_north_3_enclosure_2_1.JPG' }})
+![Derrybrien North 3 Enclosure]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/enclosures/derrybrien_north_3_enclosure_2_2.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/3_unknown/derrybrien_north_3_unknown_highres.zip)
+
+## [Mitchell's House (4)](#mitchells-house-4)  
 **Coordinates:** 53.086804, -8.585123  
 **Irish Grid Reference:** M 60848 04155
 
@@ -37,7 +67,7 @@ comments: true
 ### Griffith Valuation
 ![Derrybrien North 4 Griffith]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/derrybrien_north/4_mitchell/derrybrien_north_4_griffith.png' }})
 
-### [Unknown (4)](#unknown-4)  
+## [Unknown (4)](#unknown-4)  
 **Coordinates:** 53.086450, -8.586860  
 **Irish Grid Reference:** M 60732 04117
 
