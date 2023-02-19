@@ -16,6 +16,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;[Flanagan's House (5A)](#flanagans-house-5a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (14)](#unknown-14)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Lennon's House (15B)](#lennons-house-15b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Unknown (15)](#unknown-15)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
 **[Map](#map)**  
 **[Links](#links)** 
@@ -136,6 +137,29 @@ comments: true
 ![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_11.JPG' }})
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_highres.zip)
+
+## [Unknown (15)](#unknown-15)
+**Coordinates:** 53.038677, -8.579334  
+**Irish Grid Reference:** R 61193 98797
+
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_1.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_2.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_3.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_4.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_5.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_6.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_7.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_8.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_9.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_10.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_11.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_12.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_13.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_14.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_15.JPG' }})
+![Unknown 15 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_16.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15_unknown/slieveanore_15_unknown_highres.zip)
 
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
