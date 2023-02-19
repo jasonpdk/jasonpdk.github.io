@@ -99,6 +99,24 @@ comments: true
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_highres.zip)
 
+## [Unknown (14)](#unknown-14)
+**Coordinates:** 53.038412, -8.602025  
+**Irish Grid Reference:** R 59671 98780
+
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_1.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_2.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_3.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_4.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_5.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_6.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_7.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_8.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_9.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_10.JPG' }})
+![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_11.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_highres.zip)
+
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
 **Irish Grid Reference:** R 61692 98875
