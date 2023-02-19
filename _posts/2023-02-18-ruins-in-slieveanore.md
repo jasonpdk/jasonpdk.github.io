@@ -13,6 +13,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;[Brady's House (2A)](#bradys-house-2a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (2)](#unknown-2)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Roche's House (4B)](#roches-house-4b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Flanagan's House (5A)](#flanagans-house-5a)
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
 **[Map](#map)**  
 **[Links](#links)** 
@@ -77,6 +78,27 @@ comments: true
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/4b_roche/slieveanore_4b_roche_highres.zip)
  
+## [Flanagan's House (5A)](#flanagans-house-5a)
+**Coordinates:** 53.031936, -8.595853  
+**Irish Grid Reference:** R 60079 98056
+
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_1.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_2.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_3.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_4.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_5.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_6.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_7.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_8.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_9.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_10.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_11.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_12.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_13.JPG' }})
+![Flanagan's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_14.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/5a_flanagan/slieveanore_5a_flanagan_highres.zip)
+
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
 **Irish Grid Reference:** R 61692 98875
