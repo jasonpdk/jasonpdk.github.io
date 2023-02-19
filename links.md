@@ -4,7 +4,14 @@ title: Links
 ---
 
 ## Links
-[Martin Fahy Ballinakill Heritage](https://www.martinfahyballinakillheritage.com/)
+[GeoHive Map Viewer](https://webapps.geohive.ie/mapviewer/index.html)  
+[Irish Grid Reference Finder](https://irish.gridreferencefinder.com/)  
+[Roots Ireland](https://www.rootsireland.ie/galwayeast/)  
+[Census - National Archives](http://www.census.nationalarchives.ie/)  
+[Griffith Valuation](http://www.askaboutireland.ie/griffith-valuation/)  
+[Irish Genealogy](https://civilrecords.irishgenealogy.ie/churchrecords/civil-search.jsp)  
+[Historic Environment Viewer](https://maps.archaeology.ie/HistoricEnvironment/)  
+[Martin Fahy Ballinakill Heritage](https://www.martinfahyballinakillheritage.com/)  
 
 ## Books
 [Memories of Moyglass (2006)](https://keane-content.ams3.digitaloceanspaces.com/files/memories-of-moyglass-book.pdf) - Scan of a book produced by Moyglass School in 2006  
