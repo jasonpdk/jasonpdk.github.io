@@ -15,6 +15,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;[Roche's House (4B)](#roches-house-4b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Flanagan's House (5A)](#flanagans-house-5a)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Unknown (14)](#unknown-14)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Lennon's House (15B)](#lennons-house-15b)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Ward's House (16A)](#wards-house-16a)  
 **[Map](#map)**  
 **[Links](#links)** 
@@ -117,6 +118,24 @@ comments: true
 ![Unknown 14 Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_11.JPG' }})
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/14_unknown/slieveanore_14_unknown_highres.zip)
+
+## [Lennon's House (15B)](#lennons-house-15b)
+**Coordinates:** 53.035580, -8.576639  
+**Irish Grid Reference:** R 61371 98451
+
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_1.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_2.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_3.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_4.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_5.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_6.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_7.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_8.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_9.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_10.JPG' }})
+![Lennon's House Slieveanore]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_11.JPG' }})
+
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/ruins/slieveanore/15b_lennon/slieveanore_15b_lennon_highres.zip)
 
 ## [Ward's House (16A)](#wards-house-16a)
 **Coordinates:** 53.039414, -8.571904  
