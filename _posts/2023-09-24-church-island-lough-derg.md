@@ -5,7 +5,7 @@ tags: [Lough Derg Islands, Historical Sites, Local History, Ruins]
 comments: true
 ---
 
-Church Island is a small island in Lough Derg of about 2.2 acres off the shore from Portumna Demesne in County Galway. There is the ruin of a small church on the island but there's very little information about it. The church is marked on the 25" map and can be seen clearly in sattelite images.
+Church Island is a small island in Lough Derg of about 2.2 acres off the shore from Portumna Demesne in County Galway. There is the ruin of a small church on the island that is marked on the 25" map and can be seen clearly in sattelite images.
 
 ![Church Island Sattellite Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/church_island/churchisland-sattelite.png' }})
 ![Church Island 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/church_island/churchisland-25inch.png' }})
