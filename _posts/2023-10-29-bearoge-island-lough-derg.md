@@ -7,8 +7,8 @@ comments: true
 
 [Bearoge Island](https://www.logainm.ie/en/1437497) is a tiny island of about a third of an acre in size at the north end of Lough Derg about 250m offshore from Portumna Demesne in County Galway.
 
-![Bearoge Island Sattellite Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge-sattelite.png' }})
 ![Bearoge Island 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge25.png' }})
+![Bearoge Island Sattellite Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge-sattelite.png' }})
 
 ![Bearoge Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge-island-1.jpg' }})
 ![Bearoge Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge-island-2.jpg' }})
