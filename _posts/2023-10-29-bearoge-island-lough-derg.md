@@ -25,4 +25,4 @@ comments: true
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bearoge_island/bearoge-island-highres.zip)
 
 # Map
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1198.532659673737!2d-8.23963373567817!3d53.073099928584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTPCsDA0JzIzLjIiTiA4wrAxNCcyMC4wIlc!5e0!3m2!1sen!2sie!4v1698872717346!5m2!1sen!2sie" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d753.2207036759719!2d-8.239629762852763!3d53.07314082646425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTPCsDA0JzIzLjMiTiA4wrAxNCcyMC4zIlc!5e1!3m2!1sen!2sie!4v1698872857756!5m2!1sen!2sie" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
