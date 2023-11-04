@@ -10,6 +10,7 @@ comments: true
 ![Bounla Island Sattellite Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/sattelite-map.png' }})
 
 There are 2 landing places shown on the 25" map, I used the one at the south east of the island.
+
 ![Bounla Island 25" Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/25-inch-map.png' }})
 
 ![Bounla Island Landing Place]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/landing-place/bounla-island-landing-place-1.jpg' }})
@@ -43,12 +44,12 @@ The southern part of the island is fairly easy to walk around but the northern s
 ![Bounla Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/main/bounla-island-13.jpg' }})
 ![Bounla Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/main/bounla-island-14.jpg' }})
 
-# Records
+# Inhabitants
 On the 1841 census there was no one recorded on the island, in 1851 there were 11 people (3 males and 8 females) recorded living in 2 houses, and by 1861 it was empty again.
 
 ![Bounla Island Census]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/census-1861.png' }})
 
-On the Griffith Valuation (1853) there were 2 proprieters listed, William Darcy and John Quirk.
+On the Griffith Valuation (completed in 1853) there were 2 proprieters listed, William Darcy and John Quirk. More than likely these are 2 of the 3 males from the census above.
 
 ![Bounla Island Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/griffith-valuation.png' }})
 
