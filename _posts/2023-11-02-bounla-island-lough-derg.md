@@ -43,7 +43,7 @@ The southern part of the island is fairly easy to walk around but the northern s
 ![Bounla Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/main/bounla-island-13.jpg' }})
 ![Bounla Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/main/bounla-island-14.jpg' }})
 
-## Records
+# Records
 On the 1841 census there was no one recorded on the island, in 1851 there were 11 people (3 males and 8 females) recorded living in 2 houses, and by 1861 it was empty again.
 
 ![Bounla Island Census]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/census-1861.png' }})
