@@ -5,7 +5,7 @@ tags: [Lough Derg Islands]
 comments: true
 ---
 
-[Bounla Island](https://www.logainm.ie/en/45977) is an island of about a 16 acres in size in Lough Derg just off the shore from Ballinderry in County Tipperary. The island is owned by the ESB (folio TY55099F).
+[Bounla Island](https://www.logainm.ie/en/45977) is an island of about 16 acres in Lough Derg just off the shore from Ballinderry in County Tipperary. The island is owned by the ESB (folio TY55099F).
 
 ![Bounla Island Sattellite Map]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/sattelite-map.png' }})
 
