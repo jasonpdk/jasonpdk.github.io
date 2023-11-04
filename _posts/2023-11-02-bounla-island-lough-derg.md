@@ -48,15 +48,15 @@ On the 1841 census there was no one recorded on the island, in 1851 there were 1
 
 ![Bounla Island Census]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/census-1861.png' }})
 
-I couldn't find any trace of those houses, the only obviously man-made structure I could see was this recently built free-standing fireplace/chimney.
+On the Griffith Valuation (1853) there were 2 proprieters listed, William Darcy and John Quirk.
+
+![Bounla Island Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/griffith-valuation.png' }})
+
+I couldn't find any trace of those 2 houses, the only obviously man-made structure I could see was this recently built free-standing fireplace/chimney.
 
 ![Bounla Island Fire]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/fire/bounla-island-fire-1.jpg' }})
 ![Bounla Island Fire]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/fire/bounla-island-fire-2.jpg' }})
 ![Bounla Island Fire]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/fire/bounla-island-fire-3.jpg' }})
-
-On the Griffith Valuation (1853) there were 2 proprieters listed, William Darcy and John Quirk.
-
-![Bounla Island Griffith Valuation]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/griffith-valuation.png' }})
 
 [Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/lough_derg/islands/bounla_island/bounla-island-highres.zip)
 
