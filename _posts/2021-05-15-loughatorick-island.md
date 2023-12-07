@@ -24,6 +24,8 @@ There are the remains of a very old house on the south eastern end. There is a s
 ![Lough Atorick Island House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/house/loughatorick_island_house_9.JPG' }})
 ![Lough Atorick Island House]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/house/loughatorick_island_house_10.JPG' }})
 
+[Download high resolution images](https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/house/loughatorick-island-highres.zip)
+
 Here's a little video of a walk around the island.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yoUzf343bcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
