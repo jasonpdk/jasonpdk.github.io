@@ -5,11 +5,11 @@ tags: [Sliabh Aughty, Historical Sites, Local History]
 comments: true
 ---
 
-There is an island of about 2 acres in the north western section of Lough Atorick Lake. The island is in Slieveanore, the largest townland in County Clare. I've heard that it's called Leonard's Island which would make sense as that's a common name in Slieveanore but I haven't been able to verify it. The island is surrounded by native trees, mainly Sally's (Willow) and Holly but there are others too. The middle of the island rises into a small hill which is mainly covered in ferns and heather.
+There is an island of about 2 acres in the north western section of Lough Atorick Lake. The island is in Slieveanore, the largest townland in County Clare. The island is surrounded by native trees, mainly Sally's (Willow) and Holly but there are others too. The middle of the island rises into a small hill which is mainly covered in ferns and heather.
 
 ![Lough Atorick Island]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/loughatorick_island_from_water.JPG' }})
 
-There are the remains of a very old house on the south eastern end. There is a story from the schools collection about the man that lived there and his unfortunate end. No one appears to be living on the island in the Griffith Valuation which was completed in Clare in 1855. Judging by the state of the house and the story from the School's Collection below referring to "ancient times", the man was probably long gone by then.
+There are the remains of an old house on the south eastern end. There is a story from the schools collection about the man that lived there and his unfortunate end. No one appears to be living on the island in the Griffith Valuation which was completed in Clare in 1855. Judging by the state of the house and the story from the School's Collection below referring to "ancient times", the man was possibly long gone by then.
 
 ![Lough Atorick Island Story]({{ 'https://keane-content.ams3.digitaloceanspaces.com/img/loughatorick_island/img/duchas-island-story.jpg' }})
 
